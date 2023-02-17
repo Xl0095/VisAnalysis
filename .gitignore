@@ -1,0 +1,7 @@
+console.ipynb
+
+prepare/
+
+training/__pycache__
+training/res/*.csv
+training/log/*.txt
