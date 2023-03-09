@@ -1,0 +1,3238 @@
+{
+  "10.1109/VAST.2006.261415": [
+    "Visual analytics",
+    "Spatial information organization",
+    "Indirect human computer interaction",
+    "Indirect collaboration",
+    "Agents",
+    "Sense-making",
+    "H.3.3 [Information Search and Retrieval]: Information filtering, Relevance feedback, Selection process",
+    "H.4.1 [Office Automation]: Groupware",
+    "H.5.3 [Group and Organization Interfaces]: Collaborative computing, Computer-supported cooperative work"
+  ],
+  "10.1109/VAST.2006.261416": [
+    "visualization",
+    "analytic environments",
+    "metrics"
+  ],
+  "10.1109/VAST.2006.261417": [
+    "AJAX",
+    "thin-client",
+    "SVG",
+    "ROC curves",
+    "confusion matrices",
+    "document categorization"
+  ],
+  "10.1109/VAST.2006.261418": [
+    "Book Index",
+    "eBooks",
+    "Information Scent",
+    "contextualization",
+    "personalized information access"
+  ],
+  "10.1109/VAST.2006.261421": [
+    "Temporal query",
+    "information visualization",
+    "user interface"
+  ],
+  "10.1109/VAST.2006.261422": [
+    "Data exploration",
+    "OLAP",
+    "visualization",
+    "parallel coordinates"
+  ],
+  "10.1109/VAST.2006.261423": [
+    "Visual Data Exploration",
+    "Visualization technique",
+    "Visual Analytics",
+    "1.6.9 [Visualization]: Information Visualization¿Visualization Techniques and Methodologies"
+  ],
+  "10.1109/VAST.2006.261424": [
+    "Uncertainty visualization",
+    "multivariate visualization",
+    "data quality",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces-Graphical user interfaces"
+  ],
+  "10.1109/VAST.2006.261425": [
+    "Image retrieval",
+    "image layout",
+    "semantic image classification",
+    "multi-dimensional visualization",
+    "visual analytics",
+    "1.4.8 [Image Processing and Computer Vision]: Scene Analysis-Object recognition",
+    "H.3.3 [Information Storage and Retrieval]: Information Search and Retrieval-Search process",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces-Graphical user interfaces"
+  ],
+  "10.1109/VAST.2006.261426": [
+    "Human-Computer Interaction",
+    "information visualization",
+    "network visualization",
+    "content-actor network data",
+    "iterative query refinement",
+    "incremental data exploration",
+    "user interfaces",
+    "digital library",
+    "piccolo"
+  ],
+  "10.1109/VAST.2006.261427": [
+    "visual analytics",
+    "information visualization",
+    "human information interaction",
+    "sense making",
+    "geo-spatial information systems",
+    "temporal analysis",
+    "user centered design"
+  ],
+  "10.1109/VAST.2006.261428": [
+    "Geovisualization",
+    "exploratory visualization",
+    "historical geography",
+    "coordinated multiple views",
+    "travel pattern analysis",
+    "D.2.2 [Software Engineering]: Design Tools and Techniques¿User Interfaces",
+    "H.5.2 [Information Systems]: Information Interfaces and Presentation-User Interfaces"
+  ],
+  "10.1109/VAST.2006.261429": [
+    "Data cleaning and integration",
+    "user interfaces",
+    "visual analytics",
+    "visual data mining",
+    "H.2.8 [Information Systems]: Database Applications¿Data mining",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces¿User-centered design"
+  ],
+  "10.1109/VAST.2006.261430": [
+    "Visual Analytics",
+    "Intelligence analysis",
+    "Problem-solving solving environments",
+    "Visual Knowledge Discovery",
+    "H.1.2 [Information Systems]: Models and Principles¿User/Machine Systems H.5.1 [Information Systems]:"
+  ],
+  "10.1109/VAST.2006.261431": [
+    "Visual analytics",
+    "conflicting opinions",
+    "terminology variation",
+    "decision tree",
+    "predictive text analysis",
+    "sense making"
+  ],
+  "10.1109/VAST.2006.261432": [
+    "Visual Analytics",
+    "Graph and Network Visualization",
+    "Information Analytics",
+    "Information Visualization",
+    "1.6.9 [Visualization] - Information Visualization",
+    "Visualization Systems and Software",
+    "Visualization Techniques Methodologies"
+  ],
+  "10.1109/VAST.2006.261433": [
+    "News Visualization",
+    "Semantic Video Classification",
+    "1.2.6 [Artificial Intelligence]: Learning-Concept learning",
+    "1.3.6 [Computer Graphics]: Methodology and Techniques-Interaction Techniques"
+  ],
+  "10.1109/VAST.2006.261434": [],
+  "10.1109/VAST.2006.261435": [
+    "Interactive Detection",
+    "Wormhole Attacks",
+    "Visualization on Network Security",
+    "Wireless Networks",
+    "Topology Visualization",
+    "C.2.0 [Computer-Communication Networks]: General¿Security and protection",
+    "H.5.2 [Information Systems]: Information Interfaces and Presentation¿User interfaces"
+  ],
+  "10.1109/VAST.2006.261436": [
+    "network traffic visualization",
+    "visual analysis"
+  ],
+  "10.1109/VAST.2006.261437": [
+    "query-driven visualization",
+    "network security",
+    "data mining",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2006.261438": [
+    "Visual Analytics",
+    "Network Traffic Monitoring",
+    "Information Visualization",
+    "Geography-based Solutions"
+  ],
+  "10.1109/VAST.2006.261439": [
+    "Visual Analytics",
+    "Collaborative and distributed visualization",
+    "Data management and knowledge representation",
+    "Visual knowledge discovery"
+  ],
+  "10.1109/VAST.2006.261451": [
+    "Knowledge Discovery",
+    "Scientific Analytics",
+    "Trajectory Analysis",
+    "Feature Extraction",
+    "Spatio-temporal Predicates",
+    "Visual Analytics",
+    "D.2.2 [Design Tools and Techniques]: User Interfaces",
+    "H.2.8 [Database Applications]: Data Mining",
+    "H.2.8 [Database Applications]: Scientific Databases"
+  ],
+  "10.1109/VAST.2006.261452": [
+    "Infovis",
+    "parallel coordinates",
+    "multiple linked views",
+    "exploratory analysis",
+    "H.1.2 [User/Machine Systems]: Human information processing¿Visual Analytics",
+    "J.2 [Physical Sciences and Engineering]: Earth and atmospheric sciences¿Applications"
+  ],
+  "10.1109/VAST.2007.4388990": [
+    "wavelets",
+    "HOSVD",
+    "surveillance",
+    "anomaly detection",
+    "trajectory"
+  ],
+  "10.1109/VAST.2007.4388991": [
+    "visual analytics",
+    "geo-temporal visualization",
+    "text processing",
+    "knowledge discovery",
+    "geospatial analytics"
+  ],
+  "10.1109/VAST.2007.4388992": [
+    "human information interaction",
+    "visual analytics",
+    "sense-making",
+    "narrative",
+    "pattern detection",
+    "story making",
+    "story telling"
+  ],
+  "10.1109/VAST.2007.4388993": [],
+  "10.1109/VAST.2007.4388994": [
+    "mobile visualization",
+    "visual analytics",
+    "emergency response"
+  ],
+  "10.1109/VAST.2007.4388995": [
+    "Geovisualization",
+    "transportation planning",
+    "vehicle scheduling",
+    "task-centered design",
+    "coordinated multiple views"
+  ],
+  "10.1109/VAST.2007.4388996": [
+    "web 2.0",
+    "JavaScript",
+    "scalable vector graphics",
+    "visualization components",
+    "linked view visual analytics"
+  ],
+  "10.1109/VAST.2007.4388997": [
+    "Bioinformatics",
+    "Visual Analytics"
+  ],
+  "10.1109/VAST.2007.4388998": [
+    "Data management",
+    "visual analytics",
+    "data retrieval",
+    "information visualization",
+    "smart aggregation",
+    "situational awareness"
+  ],
+  "10.1109/VAST.2007.4388999": [
+    "Visual Analytics",
+    "High-Dimensional Data",
+    "Visual Data Mining",
+    "Visualization in Earth",
+    "Space and Environmental Sciences"
+  ],
+  "10.1109/VAST.2007.4389000": [
+    "Visual Analytics",
+    "Visual Knowledge Discovery",
+    "Discovery Management",
+    "Analysis Guided Exploration"
+  ],
+  "10.1109/VAST.2007.4389001": [
+    "Visual Analytics Query",
+    "Similarity Queries",
+    "Interactive Queries"
+  ],
+  "10.1109/VAST.2007.4389002": [
+    "Document Visualization",
+    "Multidimensional Visualization",
+    "Document Analysis",
+    "Text Analytics",
+    "Phylogenetic Trees"
+  ],
+  "10.1109/VAST.2007.4389003": [
+    "Semantic Video Classification",
+    "Knowledge Discovery",
+    "Knowledge Visualization"
+  ],
+  "10.1109/VAST.2007.4389004": [
+    "Visual literature analysis",
+    "visual analytics",
+    "literature fingerprinting"
+  ],
+  "10.1109/VAST.2007.4389005": [
+    "Large data exploration",
+    "broadcast video analysis",
+    "time filtering",
+    "clustering",
+    "animation",
+    "comparative analysis"
+  ],
+  "10.1109/VAST.2007.4389006": [
+    "Visual analytics",
+    "investigative analysis",
+    "intelligence analysis",
+    "information visualization",
+    "multiple views"
+  ],
+  "10.1109/VAST.2007.4389007": [
+    "Network security",
+    "Intrusion Detection",
+    "Visualization",
+    "Data Exploration"
+  ],
+  "10.1109/VAST.2007.4389008": [
+    "Web session log analysis",
+    "visual exploratory data analysis",
+    "information visualization"
+  ],
+  "10.1109/VAST.2007.4389009": [
+    "Fraud detection",
+    "financial data visualization",
+    "categorial time-varying data"
+  ],
+  "10.1109/VAST.2007.4389010": [
+    "Wikipedia",
+    "wiki",
+    "revert",
+    "graph",
+    "collaboration",
+    "user model",
+    "visualization"
+  ],
+  "10.1109/VAST.2007.4389011": [
+    "visualization",
+    "analysis",
+    "collaboration",
+    "design",
+    "computer-supported cooperative work"
+  ],
+  "10.1109/VAST.2007.4389012": [
+    "Wikipedia",
+    "social network analysis",
+    "controversy"
+  ],
+  "10.1109/VAST.2007.4389013": [
+    "Multivariate data",
+    "visual analytics",
+    "parallel coordinates",
+    "dynamic queries",
+    "iterative analysis",
+    "starplot",
+    "small multiples"
+  ],
+  "10.1109/VAST.2008.4677350": [
+    "H.4 [Information Systems]: Information Systems Applications",
+    "I.3.6 [Computing Methodologies]: Computer Graphics—Methodology and Techniques"
+  ],
+  "10.1109/VAST.2008.4677351": [
+    "J.2 [Physical Sciences and Engineering]: Chemistry",
+    "I.5.2 [Pattern Recognition]: Design Methodology—Classifier design and evaluation"
+  ],
+  "10.1109/VAST.2008.4677352": [
+    "Visual Analytics",
+    "Knowledge Discovery",
+    "Visual Clustering",
+    "Machine Learning",
+    "Grand Tour",
+    "High-dimensional Data",
+    "Network Security",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces—Graphical user interfaces",
+    "I.2.6 [Artificial Intelligence]: Learning—Concept Learning",
+    "I.5.3 [Pattern Recognition]: Clustering—Similarity Measures"
+  ],
+  "10.1109/VAST.2008.4677353": [
+    "Data and knowledge visualization",
+    "scientific visualization",
+    "visual analytics",
+    "situation awareness",
+    "astrophysics"
+  ],
+  "10.1109/VAST.2008.4677354": [],
+  "10.1109/VAST.2008.4677355": [
+    "human information interaction",
+    "visual analytics",
+    "graph visualization",
+    "geo-temporal analysis",
+    "concept maps"
+  ],
+  "10.1109/VAST.2008.4677356": [
+    "Movement data",
+    "spatio-temporal data",
+    "aggregation",
+    "scalable visualization",
+    "geovisualization"
+  ],
+  "10.1109/VAST.2008.4677358": [
+    "Synthesis",
+    "collaboration",
+    "visual analytics",
+    "user-centered design",
+    "H.5.3 [Information Interfaces and Presentation]: Group and Organization Interfaces"
+  ],
+  "10.1109/VAST.2008.4677359": [
+    "I.7.5 [Document and Text Processing]: Document Capture—Document Analysis",
+    "I.5.2 [Pattern Recognition]: Design Methodology—Feature evaluation and selection"
+  ],
+  "10.1109/VAST.2008.4677360": [
+    "H.5.2 [Information Interfaces And Presentation (e.g.",
+    "HCI)]: User Interfaces—Evaluation/methodology",
+    "H.5.2 [Information Interfaces And Presentation (e.g.",
+    "HCI)]: User Interfaces—Graphical user interfaces (GUI)"
+  ],
+  "10.1109/VAST.2008.4677362": [
+    "sensemaking",
+    "information foraging",
+    "collective intelligence",
+    "exploratory search",
+    "information workspace",
+    "entity-based",
+    "collaboration",
+    "intelligence analysis",
+    "visualization",
+    "semantic notebook",
+    "argumentation marshalling",
+    "visual analytics",
+    "H.5.2 [User Interfaces]: Graphical user interfaces (GUI)",
+    "H.3.3 [Information Search and Retrieval]: Information filtering",
+    "H.4 [Information Systems Applications]: H.4.m Miscellaneous",
+    "H.5.3 [Group and Organization Interfaces]: Collaborative computing",
+    "Computer-supported cooperative work",
+    "Web-based interaction"
+  ],
+  "10.1109/VAST.2008.4677363": [],
+  "10.1109/VAST.2008.4677364": [
+    "blogs",
+    "events",
+    "trends",
+    "time series",
+    "topic detection and tracking",
+    "I.7.m [Document and Text Processing]: Miscellaneous",
+    "I.3.8 [Computer Graphics]: Applications"
+  ],
+  "10.1109/VAST.2008.4677365": [
+    "Taxonomy",
+    "Information Visualization",
+    "Analytic Activity",
+    "Visual Analytics",
+    "Insight Provenance",
+    "H.5.0 [Information Systems]: Information Interfaces and Presentation—General"
+  ],
+  "10.1109/VAST.2008.4677366": [
+    "Web visualization",
+    "mobile visualization",
+    "analytic reasoning",
+    "law enforcement",
+    "multiple views",
+    "H.5.3 [Information Systems]: Information Interfaces and Presentation—Group and Organization Interfaces",
+    "C.2.4 [Computer Systems Organization]: Computer-Communication Networks —Distributed Systems"
+  ],
+  "10.1109/VAST.2008.4677367": [
+    "G.4.1 [Mathematics of Computing]: Mathematical Software—Algorithm design and analysis",
+    "I.5.3 [Computing Methodologies]: Pattern Recognition—Clustering"
+  ],
+  "10.1109/VAST.2008.4677368": [
+    "visual analysis",
+    "multivariate analysis",
+    "dimension reduction",
+    "multivariate model construction",
+    "multivariate visualization",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces—User Centered Design",
+    "G.3 [Mathematics of Computing]: Probability and Statistics—Multivariate Statistics"
+  ],
+  "10.1109/VAST.2008.4677369": [
+    "visual data mining",
+    "multimedia data",
+    "H.1.2 [Information Systems]: Models and principles - user/machine systems",
+    "H.5.1 [Information Interface and Presentation]: Multimedia Information Systems",
+    "H.5.2 [Information Interface and Presentation]: User Interfaces — Graphical user interfaces (GUI)",
+    "H.3.3 [Information Storage and Retrieval]: Information Search and Retrieval",
+    "H.2.8 [Database Management]: Database Applications —Data mining"
+  ],
+  "10.1109/VAST.2008.4677370": [
+    "D.2.2 [Software Engineering]: Design Tools and Techniques—[User Interfaces]",
+    "H.2.3 [Information Systems]: Database Management—[Languages]",
+    "H.5.2 [Information Systems]: Information Interfaces and Presentation—[User Interfaces]"
+  ],
+  "10.1109/VAST.2009.5332584": [
+    "Spatio-temporal data",
+    "movement data",
+    "trajectories",
+    "clustering",
+    "classification",
+    "scalable visualization",
+    "geovisualization"
+  ],
+  "10.1109/VAST.2009.5332586": [
+    "Climate study",
+    "multivariate data",
+    "correlation",
+    "regression",
+    "interaction",
+    "statistical analysis",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2009.5332593": [
+    "Spatio-temporal visualization",
+    "proximity",
+    "linked views",
+    "principal component analysis",
+    "temporal trajectories",
+    "movement patterns"
+  ],
+  "10.1109/VAST.2009.5332595": [
+    "Similan",
+    "M&M Measure",
+    "Similarity Search",
+    "Temporal Categorical Records"
+  ],
+  "10.1109/VAST.2009.5332596": [
+    "H.5.2 [User Interfaces]: Graphical user interfaces (GUI)—",
+    "D.2.5 [Testing and Debugging]: Debugging aids—"
+  ],
+  "10.1109/VAST.2009.5332610": [
+    "Geovisual analytics",
+    "visualization",
+    "self-organizing network",
+    "multi-layer",
+    "multi-dimensional",
+    "time-varying",
+    "geospatial data sets"
+  ],
+  "10.1109/VAST.2009.5332611": [
+    "Uncertainty",
+    "Data Transformations",
+    "Principal Component Analysis",
+    "Model Fitting"
+  ],
+  "10.1109/VAST.2009.5332628": [
+    "H.3.3 [Information Storage and Retrieval]",
+    "Information Search and Retrieval I.3.3 [Computer Graphics]",
+    "Picture/Image Generation"
+  ],
+  "10.1109/VAST.2009.5332629": [
+    "dimension reduction",
+    "linear discriminant analysis",
+    "principal component analysis",
+    "orthogonal centroid method",
+    "2D projection",
+    "clustered data",
+    "regularization",
+    "generalized singular value decomposition"
+  ],
+  "10.1109/VAST.2009.5333020": [
+    "Visual Analytics",
+    "Sense-making",
+    "Analysis Process",
+    "Visual History"
+  ],
+  "10.1109/VAST.2009.5333023": [
+    "H.3.3 [Information Search and Retrieval]—Retrieval models"
+  ],
+  "10.1109/VAST.2009.5333245": [
+    "education",
+    "evaluation",
+    "synthetic data"
+  ],
+  "10.1109/VAST.2009.5333428": [
+    "I.3.8 [Computing Methodologies]: Computer Graphics",
+    "Applications I.2.7 [Computing Methodologies]: Natural Language Processing",
+    "Text analysis"
+  ],
+  "10.1109/VAST.2009.5333431": [
+    "Knowledge Discovery",
+    "visual analysis",
+    "multivariate linear model construction",
+    "model space visualization"
+  ],
+  "10.1109/VAST.2009.5333437": [
+    "H.3.1 [Content Analysis and Indexing]: Abstracting methods—",
+    "H.3.3 [Information Search and Retrieval]: Information Filtering—",
+    "H.3.7 [Digital Libraries]: User Issues—",
+    "I.3.3 [Computer Graphics]: Picture/Image Generation—"
+  ],
+  "10.1109/VAST.2009.5333443": [
+    "Text visualization",
+    "corpus visualization",
+    "information retrieval",
+    "text mining",
+    "tag clouds"
+  ],
+  "10.1109/VAST.2009.5333564": [
+    "Patent retrieval",
+    "information visualization",
+    "visual analytics",
+    "multiple coordinated views"
+  ],
+  "10.1109/VAST.2009.5333878": [],
+  "10.1109/VAST.2009.5333880": [
+    "Graph analytics",
+    "information visualization"
+  ],
+  "10.1109/VAST.2009.5333893": [
+    "E.1 [Data Structures]: Graphs and Networks",
+    "[H.3.3]: Information Search and Retrieval",
+    "Clustering H.5.2 [User Interfaces]: Graphical user interfaces (GUI)",
+    "[I.3.3]: COMPUTER GRAPHICS",
+    "Picture/Image Generation"
+  ],
+  "10.1109/VAST.2009.5333895": [
+    "information visualization",
+    "visual analysis",
+    "correlation analysis",
+    "mass spectrometry",
+    "proteomics",
+    "interactome"
+  ],
+  "10.1109/VAST.2009.5333911": [
+    "Visual analytics",
+    "bioinformatics",
+    "gene expression experiments",
+    "microarray data",
+    "large-scale microarray"
+  ],
+  "10.1109/VAST.2009.5333917": [
+    "Visualization",
+    "Multidimensional data",
+    "Linkage Analysis",
+    "Posterior Probability of Linkage",
+    "PPL",
+    "PPLD",
+    "LD analysis",
+    "Linkage disequilibrium",
+    "Autism"
+  ],
+  "10.1109/VAST.2009.5333919": [
+    "Visual Opinion Analysis",
+    "Visual Sentiment Analysis",
+    "Visual Document Analysis",
+    "Attribute Extraction"
+  ],
+  "10.1109/VAST.2009.5333920": [
+    "Casual Information Visualization",
+    "visual analytics",
+    "personal finance",
+    "visualization of risk",
+    "economic decision-making"
+  ],
+  "10.1109/VAST.2010.5652392": [],
+  "10.1109/VAST.2010.5652398": [
+    "Visual Analytics",
+    "Interactive Visual Exploration",
+    "Decision Boundary Visualization",
+    "Multi-dimensional Space",
+    "Classification"
+  ],
+  "10.1109/VAST.2010.5652433": [
+    "H.3.3 [Information Storage and Retrieval]: Information Search and Retrieval",
+    "I.3.3 [Computer Graphics]: Picture/Image Generation"
+  ],
+  "10.1109/VAST.2010.5652443": [
+    "H.5.2 [INFORMATION INTERFACES AND PRESENTATION]: User Interfaces-Theory and methods"
+  ],
+  "10.1109/VAST.2010.5652450": [
+    "Subspace finding",
+    "clustering high-dimensional data",
+    "connected morphological operators",
+    "visual exploration",
+    "astronomical data"
+  ],
+  "10.1109/VAST.2010.5652460": [
+    "Uncertainty",
+    "Data Transformations",
+    "Principal Component Analysis",
+    "Model Fitting"
+  ],
+  "10.1109/VAST.2010.5652467": [
+    "H.1.2 [Models and Principles]: User/Machine Systems-Human information processing",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces-Graphics user interfaces",
+    "I.5.2 [Pattern Recognition]: Design Methodology-Pattern analysis",
+    "Feature evaluation and selection"
+  ],
+  "10.1109/VAST.2010.5652478": [
+    "event detection",
+    "spatio-temporal data",
+    "time series analysis",
+    "scalable visualization",
+    "geovisualization"
+  ],
+  "10.1109/VAST.2010.5652484": [
+    "Visual Knowledge Discovery",
+    "Visual Knowledge Representation",
+    "Data Clustering",
+    "Human-Computer Interaction"
+  ],
+  "10.1109/VAST.2010.5652520": [
+    "D.2.2 [Software Engineering]: Design Tools and Techniques-[User Interfaces]",
+    "H.2.3 [Information Systems]: Database Management-[Languages]",
+    "H.5.2 [Information Systems]: Information Interfaces and Presentation-[User Interfaces]"
+  ],
+  "10.1109/VAST.2010.5652530": [
+    "Visual Analytics",
+    "Financial Information Visualization",
+    "Time Series Data",
+    "Time Series Clustering",
+    "Explorative Analysis"
+  ],
+  "10.1109/VAST.2010.5652879": [
+    "note taking",
+    "recording",
+    "collaboration",
+    "tabletop",
+    "wall display",
+    "history",
+    "provenance"
+  ],
+  "10.1109/VAST.2010.5652880": [
+    "K.5.3 [Information Interfaces and Presentation]: Group and Organization Interfaces"
+  ],
+  "10.1109/VAST.2010.5652885": [
+    "Visual Analytics",
+    "Decision Making",
+    "Annotation",
+    "Insight Management",
+    "Multidimensional Visualization"
+  ],
+  "10.1109/VAST.2010.5652890": [
+    "H.5.2 [Information Interfaces and Presentation]: User Interface-User-centered design",
+    "H.3.3 [Information Systems]: Information Search and Retrieval-Query formulation"
+  ],
+  "10.1109/VAST.2010.5652895": [
+    "context",
+    "foraging",
+    "sensemaking",
+    "mapping",
+    "text analysis",
+    "geographic information retrieval"
+  ],
+  "10.1109/VAST.2010.5652896": [
+    "Information Storage and Retrieval [H.3.5]: Online Information Services-Web-based services",
+    "Database Management [H.2.1]: Logical Design-Schema and subschema",
+    "Database Management [H.2.4]: System-Query processing"
+  ],
+  "10.1109/VAST.2010.5652910": [
+    "Sensemaking",
+    "Semantic Graph Layout",
+    "Visual Analytics",
+    "Network Diagnosis",
+    "Information Visualization"
+  ],
+  "10.1109/VAST.2010.5652922": [
+    "Computational Journalism",
+    "Computer Assisted Reporting",
+    "Social Media",
+    "Sensemaking"
+  ],
+  "10.1109/VAST.2010.5652926": [
+    "I.7.5 [Document and Text Processing]: Document Capture-Document Analysis",
+    "I.5.2 [Pattern Recognition]: Design Methodology-Feature evaluation and selection"
+  ],
+  "10.1109/VAST.2010.5652931": [
+    "text visualization",
+    "multi-facet data visualization"
+  ],
+  "10.1109/VAST.2010.5652932": [
+    "Collaborative visualization",
+    "text and document data",
+    "intelligence analysis"
+  ],
+  "10.1109/VAST.2010.5652940": [
+    "H.5.2 [INFORMATION INTERFACES AND PRESENTATION]: User Interfaces-Theory and methods",
+    "I.5.3 [Pattern Recognition]: Clustering-Algorithms"
+  ],
+  "10.1109/VAST.2010.5653587": [
+    "visual analytics",
+    "cognition and perception theory",
+    "embodied cognition",
+    "visualization taxonomies and models"
+  ],
+  "10.1109/VAST.2010.5653598": [
+    "Visual analytics",
+    "visualization",
+    "reasoning process"
+  ],
+  "10.1109/VAST.2010.5653599": [
+    "Interaction",
+    "Visual Isomorph",
+    "Problem Solving"
+  ],
+  "10.1109/VAST.2011.6102435": [
+    "Visual analytics",
+    "investigative analysis",
+    "cognitive model",
+    "framework",
+    "roadblock",
+    "qualitative experiment"
+  ],
+  "10.1109/VAST.2011.6102437": [],
+  "10.1109/VAST.2011.6102438": [
+    "Intelligence analysis",
+    "qualitatvie user study"
+  ],
+  "10.1109/VAST.2011.6102439": [
+    "I.3.3 [Computer Graphics]: Viewing Algorithms",
+    "[H.5.2]: User Interfaces (D.2.2, H.1.2, I.3.6)—Interaction styles (e.g., commands, menus, forms, direct manipulation)",
+    "I.3.6 [Computer Graphics]: Methodology and Techniques—Graphics data structures and data types"
+  ],
+  "10.1109/VAST.2011.6102440": [],
+  "10.1109/VAST.2011.6102441": [
+    "social network analysis",
+    "data management",
+    "data transformation",
+    "graphs",
+    "visualization",
+    "end-user programming"
+  ],
+  "10.1109/VAST.2011.6102442": [
+    "Uncertain Graphs",
+    "Comparative Analysis",
+    "Model Comparison",
+    "Visualizing Uncertainty"
+  ],
+  "10.1109/VAST.2011.6102443": [
+    "information discovery",
+    "social networks",
+    "social data mining",
+    "social visualization"
+  ],
+  "10.1109/VAST.2011.6102445": [],
+  "10.1109/VAST.2011.6102446": [],
+  "10.1109/VAST.2011.6102447": [
+    "Visual analytics",
+    "asynchronous collaboration",
+    "insight",
+    "multidimensional visualization"
+  ],
+  "10.1109/VAST.2011.6102448": [],
+  "10.1109/VAST.2011.6102449": [
+    "observation-level interaction",
+    "visual analytics",
+    "statistical models"
+  ],
+  "10.1109/VAST.2011.6102450": [
+    "Knowledge Discovery",
+    "sensitivity analysis",
+    "local pattern visualization"
+  ],
+  "10.1109/VAST.2011.6102451": [
+    "dissimilarity based classification",
+    "dissimilarity based visualization",
+    "prototypes",
+    "interactive visualization",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2011.6102453": [],
+  "10.1109/VAST.2011.6102454": [
+    "movement",
+    "trajectories",
+    "spatio-temporal data",
+    "spatial events",
+    "spatial clustering",
+    "spatio-temporal clustering"
+  ],
+  "10.1109/VAST.2011.6102455": [],
+  "10.1109/VAST.2011.6102456": [
+    "social media analytics",
+    "scenario-based design",
+    "geovisualization",
+    "situational awareness",
+    "text analytics",
+    "crisis management",
+    "spatio-temporal analysis"
+  ],
+  "10.1109/VAST.2011.6102457": [],
+  "10.1109/VAST.2011.6102458": [],
+  "10.1109/VAST.2011.6102459": [
+    "Neuroscience",
+    "stem cell segmentation",
+    "tracking",
+    "cell imaging",
+    "data management",
+    "visual analytics",
+    "navigation",
+    "exploration",
+    "query processing"
+  ],
+  "10.1109/VAST.2011.6102460": [
+    "Visual analytics",
+    "risk assessment",
+    "Coast Guard"
+  ],
+  "10.1109/VAST.2011.6102461": [],
+  "10.1109/VAST.2011.6102462": [
+    "Digital collections",
+    "archival analysis",
+    "visual analytics",
+    "data curation"
+  ],
+  "10.1109/VAST.2011.6102463": [
+    "Design Theory",
+    "Visual Analytics",
+    "HCI"
+  ],
+  "10.1109/TVCG.2012.191": [
+    "Time series analysis",
+    "multiscale visualization",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2012.195": [
+    "Human computation",
+    "human complexity",
+    "theory",
+    "framework"
+  ],
+  "10.1109/TVCG.2012.219": [
+    "Data",
+    "analysis",
+    "visualization",
+    "enterprise"
+  ],
+  "10.1109/TVCG.2012.224": [
+    "Visual analytics",
+    "case study",
+    "qualitative evaluation"
+  ],
+  "10.1109/TVCG.2012.254": [
+    "Large categorical data",
+    "contingency table analysis",
+    "information interfaces and representation",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2012.258": [
+    "Scatter/gather clustering",
+    "alternative clustering",
+    "constrained clustering"
+  ],
+  "10.1109/TVCG.2012.260": [
+    "User Interaction",
+    "visualization",
+    "sensemaking",
+    "analytic reasoning",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2012.276": [
+    "Visual analytics",
+    "eye tracking",
+    "movement data",
+    "trajectory analysis"
+  ],
+  "10.1109/TVCG.2012.277": [
+    "Visual analytics",
+    "human computer interaction",
+    "information retrieval",
+    "active learning",
+    "classification",
+    "user evaluation"
+  ],
+  "10.1109/VAST.2012.6400484": [
+    "Visual analytics",
+    "visual text analysis",
+    "text classification"
+  ],
+  "10.1109/VAST.2012.6400485": [],
+  "10.1109/VAST.2012.6400486": [],
+  "10.1109/VAST.2012.6400487": [
+    "Just-in-time descriptive analytics",
+    "feature identification and characterization",
+    "point-based visualizations"
+  ],
+  "10.1109/VAST.2012.6400488": [
+    "H.2.8 [Database Applications]: Data mining",
+    "H.3.3 [Information Search and Retrieval]: Selection process",
+    "I.3.3 [Picture/Image Generation]",
+    "Display algorithms"
+  ],
+  "10.1109/VAST.2012.6400489": [],
+  "10.1109/VAST.2012.6400490": [
+    "Random Projections",
+    "High-dimensional Data"
+  ],
+  "10.1109/VAST.2012.6400491": [
+    "Visual analytics",
+    "correlative analysis"
+  ],
+  "10.1109/VAST.2012.6400492": [
+    "H.3.3 [Information Systems]: Information Storage and Retrieval — Information Search and Retrieval",
+    "I.2.6 [Computing Methodologies]: Artificial Intelligence — Learning"
+  ],
+  "10.1109/VAST.2012.6400493": [
+    "D.2.2 [Software Engineering]: Design Tools and Techniques — [User Interfaces]",
+    "H.2.3 [Information Systems]: Database Management — [Languages]",
+    "H.5.2 [Information Systems]: Information Interfaces and Presentation — [User Interfaces]"
+  ],
+  "10.1109/VAST.2012.6400494": [],
+  "10.1109/VAST.2012.6400552": [
+    "Dynamic Data",
+    "Interpretation"
+  ],
+  "10.1109/VAST.2012.6400553": [],
+  "10.1109/VAST.2012.6400554": [
+    "H.4 [Information Systems]: INFORMATION SYSTEMS APPLICATIONS",
+    "K.1 [Computing Milieux]",
+    "THE COMPUTER INDUSTRY — Markets"
+  ],
+  "10.1109/VAST.2012.6400555": [
+    "Visualization",
+    "Fuzzy Logic",
+    "Interaction"
+  ],
+  "10.1109/VAST.2012.6400556": [
+    "K.6.1 [Management of Computing and Information Systems]",
+    "Project and People Management—Life Cycle"
+  ],
+  "10.1109/VAST.2012.6400557": [
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces — GUI",
+    "H.3.3 [Information Storage and Retrieval]",
+    "Information Search and Retrieval — Information filtering",
+    "relevance feedback"
+  ],
+  "10.1109/VAST.2012.6400558": [
+    "Social network",
+    "visualization",
+    "sensemaking",
+    "visual analytics",
+    "SocialNetSense"
+  ],
+  "10.1109/VAST.2012.6400560": [
+    "I.7.5 [Document and Text Processing]: Document Capture — Graphics recognition and interpretation",
+    "I.4.7 [Image Processing and Computer Vistion]: Feature Representation —",
+    "H.5 [Information Interfaces and Presentation]: User Interfaces — Graphical"
+  ],
+  "10.1109/TVCG.2013.125": [
+    "Modeling",
+    "Regression analysis",
+    "Computational modeling",
+    "Feature extraction",
+    "Frequency-domain analysis",
+    "Complexity theory",
+    "guided visualization",
+    "Regression",
+    "model building",
+    "visual knowledge discovery",
+    "feature selection",
+    "data partitioning"
+  ],
+  "10.1109/TVCG.2013.132": [
+    "Human factors",
+    "Terrain mapping",
+    "Data visualization",
+    "Context awareness",
+    "Visual analytics",
+    "narratives",
+    "Human terrain analysis",
+    "provenance",
+    "framework",
+    "bookmarks"
+  ],
+  "10.1109/TVCG.2013.146": [
+    "Decision making",
+    "Statistical analysis",
+    "Data visualization",
+    "Analytical models",
+    "Visual analytics",
+    "Program Analysis",
+    "Decision support systems",
+    "Model validation and Analysis",
+    "Multivariate statistics"
+  ],
+  "10.1109/TVCG.2013.157": [
+    "Cities and towns",
+    "Support vector machines",
+    "Text mining",
+    "Optimization",
+    "Quantization (signal)",
+    "support vector machines",
+    "High-dimensional spaces",
+    "exploration"
+  ],
+  "10.1109/TVCG.2013.162": [
+    "Visual analytics",
+    "Vocabulary",
+    "Analytical models",
+    "Text mining",
+    "Computational modeling",
+    "Algorithm design and analysis",
+    "rose tree",
+    "Hierarchical topic representation",
+    "topic modeling",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2013.164": [
+    "Market research",
+    "Redundancy",
+    "Data analysis",
+    "Social network services",
+    "Image color analysis",
+    "Clustering algorithms",
+    "Social Data Analysis",
+    "Crowdsourcing"
+  ],
+  "10.1109/TVCG.2013.167": [
+    "Data visualization",
+    "Market research",
+    "Faceted searches",
+    "Information filters",
+    "visual analytics",
+    "Faceted browsing",
+    "network exploration",
+    "dynamic query",
+    "interaction",
+    "information visualization"
+  ],
+  "10.1109/TVCG.2013.168": [
+    "Interactive states",
+    "Image segmentation",
+    "Data visualization",
+    "Visual analytics",
+    "Surveillance",
+    "Tracking",
+    "Navigation",
+    "video browsing and exploration",
+    "Video visual analytics",
+    "surveillance video",
+    "video visualization",
+    "video summarization"
+  ],
+  "10.1109/TVCG.2013.178": [
+    "Visual analytics",
+    "Data visualization",
+    "Time series analysis",
+    "Databases",
+    "Data collection",
+    "cluster glyph",
+    "Visual analytics",
+    "exploratory search",
+    "multivariate time series",
+    "motion capture data",
+    "data aggregation"
+  ],
+  "10.1109/TVCG.2013.181": [
+    "Image segmentation",
+    "Three-dimensional displays",
+    "Eigenvalues and eigenfunctions",
+    "Laplace equations",
+    "Image analysis",
+    "Data visualization",
+    "Clustering",
+    "programming with example",
+    "Image segmentation",
+    "spectral clustering",
+    "high-dimensional embeddings",
+    "linked views"
+  ],
+  "10.1109/TVCG.2013.186": [
+    "Blogs",
+    "Social network services",
+    "Information retrieval",
+    "Twitter",
+    "Real-time systems",
+    "Labeling",
+    "Spatiotemporal phenomena",
+    "text classification",
+    "Microblog analysis",
+    "Twitter",
+    "text analytics",
+    "social media monitoring",
+    "live monitoring",
+    "visual analytics",
+    "information visualization",
+    "filter construction",
+    "query construction"
+  ],
+  "10.1109/TVCG.2013.188": [
+    "Data visualization",
+    "Cognitive science",
+    "Mathematical model",
+    "Algorithm design and analysis",
+    "Semantics",
+    "statistical models",
+    "Visual to parametric interaction",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2013.193": [
+    "Trajectory",
+    "Visual analytics",
+    "Market research",
+    "Behavioral science",
+    "Data models",
+    "collective movement",
+    "Visual analytics",
+    "movement data"
+  ],
+  "10.1109/TVCG.2013.194": [
+    "Data visualization",
+    "Tracking",
+    "Spatiotemporal phenomena",
+    "Visual analytics",
+    "Clustering algorithms",
+    "Space-time codes",
+    "Context awareness",
+    "motion-compensated heat map",
+    "Eye-tracking",
+    "space-time cube",
+    "dynamic areas of interest",
+    "spatiotemporal clustering"
+  ],
+  "10.1109/TVCG.2013.197": [
+    "Data visualization",
+    "Context awareness",
+    "Collaborative work",
+    "user study",
+    "Collaboration",
+    "awareness",
+    "attentionally ambient visualization",
+    "brushing and linking",
+    "linked views"
+  ],
+  "10.1109/TVCG.2013.198": [
+    "Time series analysis",
+    "Market research",
+    "Image color analysis",
+    "Power system dynamics",
+    "Current measurement",
+    "Time measurement",
+    "supergraph clustering",
+    "Dynamic networks",
+    "visualization"
+  ],
+  "10.1109/TVCG.2013.200": [
+    "Complexity theory",
+    "Electronic medical records",
+    "Data mining",
+    "Data visualization",
+    "Market research",
+    "temporal query",
+    "Event sequences",
+    "simplification",
+    "electronic heath records"
+  ],
+  "10.1109/TVCG.2013.205": [
+    "Navigation",
+    "Visual analytics",
+    "Browsers",
+    "Image color analysis",
+    "high-resolution displays",
+    "Sensemaking",
+    "visual analytics",
+    "physical navigation",
+    "embodiment large"
+  ],
+  "10.1109/TVCG.2013.206": [
+    "Visual analytics",
+    "Data models",
+    "Data structures",
+    "Data visualization",
+    "Time-domain analysis",
+    "temporal data",
+    "Visual Analytics",
+    "information visualization",
+    "toolkits",
+    "software infrastructure",
+    "time"
+  ],
+  "10.1109/TVCG.2013.207": [
+    "Data visualization",
+    "Visual analytics",
+    "Analytical models",
+    "Computational modeling",
+    "Machine learning",
+    "Multimedia communication",
+    "multimedia visualization",
+    "visual knowledge discovery",
+    "data clustering",
+    "machine learning"
+  ],
+  "10.1109/TVCG.2013.211": [
+    "Visual analytics",
+    "User interfaces",
+    "Design methodology",
+    "Query processing",
+    "interface design",
+    "Visual analytics",
+    "sense-making",
+    "dataframe mode",
+    "evaluation",
+    "reasoning",
+    "analysis",
+    "interaction"
+  ],
+  "10.1109/TVCG.2013.212": [
+    "Analytical models",
+    "Visual analytics",
+    "Computational modeling",
+    "Interactive states",
+    "Context modeling",
+    "text analytics",
+    "Latent dirichlet allocation",
+    "nonnegative matrix factorization",
+    "topic modeling",
+    "visual analytics",
+    "interactive clustering"
+  ],
+  "10.1109/TVCG.2013.213": [
+    "Data visualization",
+    "Image color analysis",
+    "Visual analytics",
+    "Shape analysis",
+    "Image segmentation",
+    "image set comparison",
+    "Comparative visualization",
+    "focus+context visualization"
+  ],
+  "10.1109/TVCG.2013.219": [
+    "Data visualization",
+    "Painting",
+    "Cultural differences",
+    "Correlation",
+    "Visual analytics",
+    "Visual Analytics",
+    "Cultural Heritage",
+    "Wall Paintings",
+    "Degradation"
+  ],
+  "10.1109/TVCG.2013.220": [
+    "Visual analytics",
+    "Data analysis",
+    "Data visualization",
+    "Marine vehicles",
+    "Semantics",
+    "Database languages",
+    "digital humanities",
+    "Graph search",
+    "graph query language",
+    "multidimensional data",
+    "attribute relationship graphs",
+    "multivariate data analysis",
+    "higher-order conjunctive queries",
+    "visual query language"
+  ],
+  "10.1109/TVCG.2013.221": [
+    "Visual analytics",
+    "Data visualization",
+    "Mathematical model",
+    "Recruitment",
+    "Social network services",
+    "agenda-setting",
+    "Social media visuaization",
+    "topic competition",
+    "information diffusion",
+    "information propagation"
+  ],
+  "10.1109/TVCG.2013.222": [
+    "Time series analysis",
+    "Analytical models",
+    "Autoregressive processes",
+    "Mathematical model",
+    "Data models",
+    "coordinated & multiple views",
+    "Visual analytics",
+    "model selection",
+    "visual interaction",
+    "time series analysis"
+  ],
+  "10.1109/TVCG.2013.223": [
+    "Social network services",
+    "Visual analytics",
+    "Data visualization",
+    "Complexity theory",
+    "Design methodology",
+    "User centered design",
+    "qualitative evaluation",
+    "Design study",
+    "user-centered design",
+    "node-link diagrams",
+    "multimodal graphs",
+    "interaction"
+  ],
+  "10.1109/TVCG.2013.224": [
+    "Shape analysis",
+    "Clustering algorithms",
+    "Noise measurement",
+    "Visual analytics",
+    "Data visualization",
+    "Image color analysis",
+    "Heuristic algorithms",
+    "k-order a-(alpha)-shapes",
+    "Heuristic-based spatial clustering",
+    "iInteractive visual clustering"
+  ],
+  "10.1109/TVCG.2013.226": [
+    "Visual analytics",
+    "Cities and towns",
+    "Data visualization",
+    "Data models",
+    "Analytical models",
+    "Time factors",
+    "Mathematical model",
+    "visual exploration",
+    "Spatio-temporal queries",
+    "urban data",
+    "NYC taxis"
+  ],
+  "10.1109/TVCG.2013.228": [
+    "Road traffic",
+    "Trajectory",
+    "Urban areas",
+    "Global Positioning System",
+    "Data visualization",
+    "Cities and towns",
+    "Data mining",
+    "Traffic control",
+    "traffic jam propagation",
+    "Traffic visualization"
+  ],
+  "10.1109/TVCG.2014.2346481": [],
+  "10.1109/TVCG.2014.2346482": [],
+  "10.1109/TVCG.2014.2346572": [],
+  "10.1109/TVCG.2014.2346573": [],
+  "10.1109/TVCG.2014.2346574": [],
+  "10.1109/TVCG.2014.2346575": [],
+  "10.1109/TVCG.2014.2346578": [],
+  "10.1109/TVCG.2014.2346591": [],
+  "10.1109/TVCG.2014.2346594": [],
+  "10.1109/TVCG.2014.2346626": [],
+  "10.1109/TVCG.2014.2346660": [
+    "Probabilistic classification",
+    "confusion analysis",
+    "feature evaluation and selection",
+    "visual inspection"
+  ],
+  "10.1109/TVCG.2014.2346665": [],
+  "10.1109/TVCG.2014.2346682": [],
+  "10.1109/TVCG.2014.2346743": [],
+  "10.1109/TVCG.2014.2346744": [
+    "Interactive Visual Analysis",
+    "Integrated Design Environment",
+    "Simulation",
+    "Visual Steering",
+    "Automatic Optimization"
+  ],
+  "10.1109/TVCG.2014.2346746": [],
+  "10.1109/TVCG.2014.2346747": [],
+  "10.1109/TVCG.2014.2346751": [],
+  "10.1109/TVCG.2014.2346752": [],
+  "10.1109/TVCG.2014.2346753": [
+    "Web-based visualization",
+    "gene regulatory network"
+  ],
+  "10.1109/TVCG.2014.2346754": [],
+  "10.1109/TVCG.2014.2346755": [],
+  "10.1109/TVCG.2014.2346893": [],
+  "10.1109/TVCG.2014.2346898": [],
+  "10.1109/TVCG.2014.2346911": [
+    "Computational steering",
+    "visual analytics",
+    "critical infrastructure",
+    "homeland security"
+  ],
+  "10.1109/TVCG.2014.2346912": [],
+  "10.1109/TVCG.2014.2346913": [],
+  "10.1109/TVCG.2014.2346919": [],
+  "10.1109/TVCG.2014.2346920": [
+    "Opinion visualization",
+    "opinion diffusion",
+    "opinion flow",
+    "influence estimation",
+    "kernel density estimation",
+    "level-of-detail"
+  ],
+  "10.1109/TVCG.2014.2346922": [
+    "Retweeting threads",
+    "anomaly detection",
+    "social media",
+    "visual analytics",
+    "machine learning",
+    "information visualization"
+  ],
+  "10.1109/TVCG.2014.2346926": [],
+  "10.1109/TVCG.2014.2346930": [],
+  "10.1109/VAST.2014.7042477": [
+    "Visual Analytics",
+    "Sport Analytics",
+    "Soccer Analysis"
+  ],
+  "10.1109/VAST.2014.7042478": [
+    "sports visualization",
+    "sports analytics",
+    "baseball",
+    "game reconstruction",
+    "baseball metrics",
+    "event data"
+  ],
+  "10.1109/VAST.2014.7042479": [
+    "Intelligence Analysis",
+    "Coordinated and Multiple Views",
+    "Time-varying data",
+    "Geographic/Geospatial Visualization"
+  ],
+  "10.1109/VAST.2014.7042480": [
+    "View Space Exploration Framework",
+    "Interesting View Problem",
+    "Relevance Feedback",
+    "User Preference Model"
+  ],
+  "10.1109/VAST.2014.7042481": [
+    "MR spectroscopy",
+    "cancer",
+    "brain",
+    "visualization",
+    "multi-modality data",
+    "radiotherapy planning",
+    "medical decision support systems"
+  ],
+  "10.1109/VAST.2014.7042482": [
+    "Evaluation methodology",
+    "insight-based evaluation",
+    "visual analytics",
+    "network visualization",
+    "information visualization"
+  ],
+  "10.1109/VAST.2014.7042484": [
+    "I.3.6 [Computer Graphics]: Methodology and Techniques — Interaction techniques",
+    "I.3.8 [Computer Graphics]: Applications — Visual Analytics"
+  ],
+  "10.1109/VAST.2014.7042485": [
+    "Biologic Visualization",
+    "Graph Visualization",
+    "Motif Search",
+    "Motif Visualization",
+    "Biology",
+    "Mutations",
+    "Pattern Visualization"
+  ],
+  "10.1109/VAST.2014.7042486": [
+    "Road-based Query",
+    "Taxi Trajectory",
+    "Hash Index",
+    "Visual Analysis"
+  ],
+  "10.1109/VAST.2014.7042487": [
+    "Information Visualization",
+    "Visual Analytics",
+    "Log Analysis",
+    "Log Visualization",
+    "Session Analysis",
+    "Funnel Analysis"
+  ],
+  "10.1109/VAST.2014.7042488": [
+    "Visual Analytics",
+    "Spatiotemporal Data Mining and Visualization",
+    "Water Quality"
+  ],
+  "10.1109/VAST.2014.7042491": [
+    "Visual analysis",
+    "comparative visualization",
+    "3D data exploration",
+    "focus+context",
+    "mesh comparison"
+  ],
+  "10.1109/VAST.2014.7042492": [
+    "Visual analytics",
+    "Semantic Interaction",
+    "Sensemaking",
+    "Text Analytics"
+  ],
+  "10.1109/VAST.2014.7042493": [
+    "Text visualization",
+    "topic modeling"
+  ],
+  "10.1109/VAST.2014.7042495": [
+    "Social Media",
+    "Predictive Analytics",
+    "Feature Selection"
+  ],
+  "10.1109/VAST.2014.7042496": [
+    "Personal emotion analytics",
+    "affective and mood modeling",
+    "social media text",
+    "Twitter",
+    "information visualization"
+  ],
+  "10.1109/TVCG.2015.2467196": [
+    "Anomaly Detection",
+    "Social Media",
+    "Visual Analysis"
+  ],
+  "10.1109/TVCG.2015.2467531": [
+    "System",
+    "timelines",
+    "authoring environment",
+    "time-oriented data",
+    "journalism"
+  ],
+  "10.1109/TVCG.2015.2467551": [
+    "Provenance",
+    "Analytic provenance",
+    "Visual analytics",
+    "Framework",
+    "Visualization",
+    "Conceptual model"
+  ],
+  "10.1109/TVCG.2015.2467552": [
+    "High Dimensional Data",
+    "Low-Dimensional Embedding",
+    "Visual Analytics",
+    "Decision Make",
+    "Tradeoffs",
+    ""
+  ],
+  "10.1109/TVCG.2015.2467553": [
+    "Multivariate Data",
+    "Time Series",
+    "Data Reduction",
+    "Multidimensional Scaling"
+  ],
+  "10.1109/TVCG.2015.2467554": [
+    "microblog data",
+    "mutual reinforcement model",
+    "uncertainty modeling",
+    "uncertainty visualization",
+    "uncertainty propagation"
+  ],
+  "10.1109/TVCG.2015.2467555": [
+    "Online health communities",
+    "visual analytics",
+    "conversation analysis",
+    "thread visualization",
+    "healthcare",
+    "design study",
+    ""
+  ],
+  "10.1109/TVCG.2015.2467591": [
+    "Visual Analytics",
+    "Knowledge Generation",
+    "Uncertainty Measures and Propagation",
+    "Trust Building",
+    "Human Factors"
+  ],
+  "10.1109/TVCG.2015.2467592": [
+    "Transportation",
+    "schedules",
+    "kernel density estimation",
+    "visual exploration"
+  ],
+  "10.1109/TVCG.2015.2467611": [
+    "Sensemaking",
+    "analytic provenance",
+    "transcription",
+    "coding",
+    "qualitative research",
+    "timeline visualization"
+  ],
+  "10.1109/TVCG.2015.2467612": [
+    "Visual analytics",
+    "time series analysis",
+    "order selection"
+  ],
+  "10.1109/TVCG.2015.2467615": [
+    "Scatterplots",
+    "user interaction",
+    "model steering"
+  ],
+  "10.1109/TVCG.2015.2467618": [
+    "Text visualization",
+    "topic modeling"
+  ],
+  "10.1109/TVCG.2015.2467619": [
+    "Spatial temporal visual analytics",
+    "Geo-tagged social media",
+    "Sparsely sampling",
+    "Uncertainty",
+    "Movement"
+  ],
+  "10.1109/TVCG.2015.2467620": [
+    "visual analytics",
+    "profiling system",
+    "musicians database visualization",
+    "digital humanities",
+    "musicology"
+  ],
+  "10.1109/TVCG.2015.2467621": [
+    "scientific literature",
+    "visual document analysis",
+    "visual citation analysis",
+    "streamgraph",
+    "clustering"
+  ],
+  "10.1109/TVCG.2015.2467622": [
+    "Visual temporal queries",
+    "cohort definition",
+    "electronic medical records",
+    "information visualization"
+  ],
+  "10.1109/TVCG.2015.2467733": [
+    "Clinical diagnosis",
+    "differential hierarchy comparison",
+    "ontology",
+    "phenomics",
+    "phenotype"
+  ],
+  "10.1109/TVCG.2015.2467757": [
+    "Visual analytics of documents",
+    "bibliographic data",
+    "dissemination",
+    "literature browser"
+  ],
+  "10.1109/TVCG.2015.2467771": [
+    "Graph based visual analytics",
+    "Centrality",
+    "Taxi trajectories",
+    "Urban network",
+    "Transportation assessment"
+  ],
+  "10.1109/TVCG.2015.2467813": [
+    "Bicluster",
+    "coordinated relationship",
+    "semantic edge bundling"
+  ],
+  "10.1109/TVCG.2015.2467871": [
+    "visual analytics",
+    "qualitative evaluation",
+    "thinking aloud",
+    "interaction logs",
+    "eye tracking",
+    "time series data"
+  ],
+  "10.1109/TVCG.2015.2467931": [
+    "Visual knowledge discovery",
+    "Causality",
+    "Hypothesis testing",
+    "Visual evidence",
+    "High-dimensional data"
+  ],
+  "10.1109/TVCG.2015.2467954": [
+    "Visual Analytics",
+    "Evaluation",
+    "User Studies",
+    "Ontology",
+    "Experiments",
+    "Interaction",
+    "Virtual Reality",
+    "Visualization"
+  ],
+  "10.1109/TVCG.2015.2467971": [
+    "Visual Analytics",
+    "Text Analytics",
+    "Wikipedia"
+  ],
+  "10.1109/TVCG.2015.2467991": [
+    "Media Analysis",
+    "Time Series Analysis",
+    "Event Detection"
+  ],
+  "10.1109/TVCG.2015.2468011": [
+    "Integrating Spatial and Non-Spatial Data Visualization",
+    "Visualization in Physical Sciences and Engineering",
+    "Coordinated and Multiple Views",
+    "Visual Knowledge Discovery"
+  ],
+  "10.1109/TVCG.2015.2468078": [
+    "Dynamic Networks",
+    "Exploration",
+    "Dimensionality Reduction"
+  ],
+  "10.1109/TVCG.2015.2468111": [
+    "Visual analytics",
+    "movement data",
+    "networks",
+    "graphs",
+    "temporal aggregation",
+    "spatial aggregation",
+    "flows",
+    "clustering"
+  ],
+  "10.1109/TVCG.2015.2468151": [
+    "Egocentric network",
+    "dynamic graph",
+    "network visualization",
+    "glyph-based design",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2015.2468291": [
+    "Interactive Visual Analysis",
+    "Regression Analysis",
+    "Heat Map",
+    "Epidemiology",
+    "Breast Cancer",
+    "Hepatic Steatosis"
+  ],
+  "10.1109/TVCG.2015.2468292": [
+    "Human motion visualization",
+    "interactive clustering",
+    "motion tracking data",
+    "expert reviews",
+    "user study"
+  ],
+  "10.1109/VAST.2015.7347624": [
+    "Time-varying data",
+    "graph wavelets",
+    "stacked graph visualization"
+  ],
+  "10.1109/VAST.2015.7347625": [
+    "mixed-initiative visual analytics",
+    "task modeling",
+    "recommender systems",
+    "sensemaking"
+  ],
+  "10.1109/VAST.2015.7347627": [
+    "visual analytics process",
+    "provenance",
+    "collaboration",
+    "visualization",
+    "computer-supported cooperative work"
+  ],
+  "10.1109/VAST.2015.7347628": [],
+  "10.1109/VAST.2015.7347629": [
+    "I.3.6 [Computing Methodologies]: Computer Graphics—Methodology and Techniques",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces—Theory and methods"
+  ],
+  "10.1109/VAST.2015.7347630": [
+    "Smart card data",
+    "origin-destination (OD)",
+    "spatiotemporal visualization",
+    "clustering",
+    "machine learning"
+  ],
+  "10.1109/VAST.2015.7347631": [
+    "Visual Text Analysis",
+    "User Interface",
+    "Social Media",
+    "Demographic Analysis"
+  ],
+  "10.1109/VAST.2015.7347632": [],
+  "10.1109/VAST.2015.7347633": [
+    "frame rate data",
+    "game performance evaluation",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2015.7347634": [
+    "Uncertainty Visualization",
+    "Vector Field Data",
+    "Coordinated and Multiple Views",
+    "Glyph-based Techniques"
+  ],
+  "10.1109/VAST.2015.7347635": [
+    "Interactive Visual Analysis",
+    "Simulation-Ensemble Steering",
+    "Multi-resolution simulation"
+  ],
+  "10.1109/VAST.2015.7347636": [
+    "Urban data analysis",
+    "GIS",
+    "impact analysis",
+    "visual analytics",
+    "architecture",
+    "city development"
+  ],
+  "10.1109/VAST.2015.7347637": [
+    "Features",
+    "machine learning",
+    "interactive machine learning",
+    "text classification",
+    "dictionaries",
+    "visualization"
+  ],
+  "10.1109/TVCG.2016.2598415": [
+    "Game play data visualization",
+    "visual knowledge discovery",
+    "visual knowledge representation",
+    "and game reconstruction"
+  ],
+  "10.1109/TVCG.2016.2598416": [
+    "Taxi Trajectories",
+    "Taxi Document",
+    "Textualization",
+    "Name Query",
+    "Semantic Interaction",
+    "Text Search Engine"
+  ],
+  "10.1109/TVCG.2016.2598432": [
+    "optimal billboard locations",
+    "taxi trajectory",
+    "visual analytics",
+    "comparative analysis"
+  ],
+  "10.1109/TVCG.2016.2598444": [
+    "Discussion forum",
+    "MOOC",
+    "temporal visualization",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2016.2598445": [
+    "topic modeling",
+    "nonnegative matrix factorization",
+    "t-distributed stochastic neighbor embedding",
+    "magic lens",
+    "text analytics"
+  ],
+  "10.1109/TVCG.2016.2598446": [
+    "axis mapping",
+    "interactive model steering",
+    "sketch",
+    "axis visualization",
+    "human-centered visual analytics"
+  ],
+  "10.1109/TVCG.2016.2598447": [
+    "Exploratory Text Analysis",
+    "Knowledge Discovery",
+    "Text Visualization"
+  ],
+  "10.1109/TVCG.2016.2598460": [
+    "Theoretical models",
+    "human oracle",
+    "visual analytics",
+    "mixed initiative systems",
+    "semantic interaction",
+    "sensemaking"
+  ],
+  "10.1109/TVCG.2016.2598463": [
+    "Visual Knowledge Discovery",
+    "Temporal Feature Analysis",
+    "Radiomics",
+    "Spleen",
+    "Abdominal Imaging"
+  ],
+  "10.1109/TVCG.2016.2598465": [
+    "Name disambiguation",
+    "analytical reasoning"
+  ],
+  "10.1109/TVCG.2016.2598466": [
+    "Dimension coverage",
+    "Tabular data",
+    "History",
+    "Empirical laboratory study",
+    "Exploratory data analysis",
+    "Scented widgets"
+  ],
+  "10.1109/TVCG.2016.2598467": [
+    "Matrix Visualization",
+    "Visual Quality Measures",
+    "Quality Metrics",
+    "Feature Detection/Selection",
+    "Relational Data"
+  ],
+  "10.1109/TVCG.2016.2598468": [
+    "Visual analytics",
+    "guidance model",
+    "assistance",
+    "user support"
+  ],
+  "10.1109/TVCG.2016.2598469": [
+    "Cross-sectional cohort analysis",
+    "Phenotypes",
+    "Human Phenotype Ontology (HPO)"
+  ],
+  "10.1109/TVCG.2016.2598470": [
+    "Progressive analytics",
+    "high dimensional data",
+    "iterative refinement",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2016.2598471": [
+    "Visual Analytics",
+    "User Interactions",
+    "Analytic Provenance",
+    "Machine Learning"
+  ],
+  "10.1109/TVCG.2016.2598472": [
+    "Brain Network",
+    "Visual Comparison",
+    "Hybrid Representation"
+  ],
+  "10.1109/TVCG.2016.2598479": [
+    "Joint Distribution Reconstruction",
+    "Solution Space",
+    "High-dimensional Data",
+    "Multivariate Data",
+    "Parallel Coordinates"
+  ],
+  "10.1109/TVCG.2016.2598495": [
+    "Interactive visualization",
+    "machine learning",
+    "visual analytics",
+    "dimensionality reduction"
+  ],
+  "10.1109/TVCG.2016.2598497": [
+    "Visualization framework",
+    "data flow",
+    "subset flow model",
+    "tabular data"
+  ],
+  "10.1109/TVCG.2016.2598543": [
+    "Externalization user-authored annotation",
+    "exploratory sequential data analysis",
+    "graph-based visualization"
+  ],
+  "10.1109/TVCG.2016.2598544": [
+    "trust",
+    "transparency",
+    "familiarity",
+    "uncertainty",
+    "biological data analysis"
+  ],
+  "10.1109/TVCG.2016.2598545": [
+    "visual analytics",
+    "user-centred design",
+    "profiling",
+    "constraint programming",
+    "tree visualisations"
+  ],
+  "10.1109/TVCG.2016.2598664": [
+    "Temporal Data",
+    "Marey's Graph",
+    "Visual Analytics",
+    "Manufacturing",
+    "Smart Factory",
+    "Connected Industry",
+    "Industry 4.0"
+  ],
+  "10.1109/TVCG.2016.2598695": [
+    "Eye tracking",
+    "visual analytics",
+    "video visualization"
+  ],
+  "10.1109/TVCG.2016.2598796": [
+    "Eye tracking",
+    "gaze visualization",
+    "gaze pattern comparison",
+    "volumetric medical images",
+    "context-embedded interactive scatterplot",
+    "interactive temporal chart"
+  ],
+  "10.1109/TVCG.2016.2598797": [
+    "Clickstream Data",
+    "sequence mining",
+    "visual analytics",
+    "event sequences"
+  ],
+  "10.1109/TVCG.2016.2598828": [
+    "Performance analysis",
+    "classification",
+    "usable machine learning"
+  ],
+  "10.1109/TVCG.2016.2598829": [
+    "Visual analytics",
+    "classification",
+    "decision tree",
+    "model",
+    "facial expression",
+    "visualization image",
+    "information theory"
+  ],
+  "10.1109/TVCG.2016.2598830": [
+    "Parallel coordinates plots",
+    "parameter analysis",
+    "multi-resolution climate ensembles"
+  ],
+  "10.1109/TVCG.2016.2598831": [
+    "Deep convolutional neural networks",
+    "rectangle packing",
+    "matrix reordering",
+    "edge bundling",
+    "biclustering"
+  ],
+  "10.1109/TVCG.2016.2598838": [
+    "Artificial neural networks",
+    "dimensionality reduction",
+    "algorithm understanding"
+  ],
+  "10.1109/TVCG.2016.2599378": [
+    "Centralized matching",
+    "matching visualization",
+    "interaction techniques",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2016.7883506": [
+    "Proxemics",
+    "gestures",
+    "visual exploration",
+    "collaborative sensemaking",
+    "user study",
+    "large displays",
+    "orientation",
+    "position"
+  ],
+  "10.1109/VAST.2016.7883507": [
+    "interaction techniques",
+    "document visualization",
+    "text mining",
+    "visual analytics",
+    "focus+context"
+  ],
+  "10.1109/VAST.2016.7883508": [
+    "Crowdsourcing",
+    "virtual colonoscopy",
+    "visual analytics",
+    "biomedical applications"
+  ],
+  "10.1109/VAST.2016.7883509": [
+    "Hypothesis forming",
+    "Time series visualization",
+    "Visual knowledge discovery",
+    "Vaccines",
+    "Public health"
+  ],
+  "10.1109/VAST.2016.7883510": [
+    "Social Media",
+    "Map",
+    "Information Diffusion"
+  ],
+  "10.1109/VAST.2016.7883511": [
+    "Idea flow",
+    "lead-lag",
+    "focus+context",
+    "correlated clustering",
+    "flow map"
+  ],
+  "10.1109/VAST.2016.7883512": [
+    "Temporal event sequences",
+    "recommender systems",
+    "prescriptive analytics",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2016.7883513": [],
+  "10.1109/VAST.2016.7883514": [
+    "High-dimensional data visualization",
+    "information-aware relation",
+    "data exploration"
+  ],
+  "10.1109/VAST.2016.7883515": [
+    "Sensemaking",
+    "browser-based online sensemaking",
+    "analytic provenance",
+    "visual analytics",
+    "visualization",
+    "design study"
+  ],
+  "10.1109/VAST.2016.7883516": [
+    "I.3.6 [Computer Graphics]: Methodology and Techniques—Interaction techniques"
+  ],
+  "10.1109/VAST.2016.7883517": [
+    "Visualization in education",
+    "machine learning",
+    "time series data",
+    "design studies"
+  ],
+  "10.1109/VAST.2016.7883518": [
+    "User-queries",
+    "Sketching",
+    "Time Series",
+    "Symbolic approximation",
+    "Regular Expression",
+    "Shape Grammar"
+  ],
+  "10.1109/VAST.2016.7883519": [],
+  "10.1109/VAST.2016.7883520": [
+    "I.3.6 [Methodology and Techniques]: Interaction techniques—",
+    "H.5.2 [User Interfaces]: Evaluation/Methodology—"
+  ],
+  "10.1109/TVCG.2017.2743990": [
+    "Data science",
+    "visualization",
+    "visual analytics",
+    "contextual inquiry",
+    "semi-structured interviews"
+  ],
+  "10.1109/TVCG.2017.2744098": [
+    "High-dimensional data",
+    "low-dimensional structure",
+    "subspace",
+    "manifold",
+    "visual exploration"
+  ],
+  "10.1109/TVCG.2017.2744322": [
+    "Visual analytics",
+    "movement data analysis",
+    "trajectory clustering",
+    "air traffic"
+  ],
+  "10.1109/TVCG.2017.2744358": [
+    "Progressive visual analytics",
+    "deep neural networks",
+    "machine learning"
+  ],
+  "10.1109/TVCG.2017.2744378": [
+    "tree boosting",
+    "model analysis",
+    "temporal confusion matrix",
+    "tree visualization"
+  ],
+  "10.1109/TVCG.2017.2744418": [
+    "Visual analytics",
+    "interactive optimisation",
+    "interactive systems and tools",
+    "prostate brachytherapy"
+  ],
+  "10.1109/TVCG.2017.2744419": [
+    "Anomaly Detection",
+    "Visual Analysis"
+  ],
+  "10.1109/TVCG.2017.2744458": [
+    "Biclustering",
+    "coordinated relationship analysis",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2017.2744478": [
+    "Text analytics",
+    "visual analytics",
+    "word embedding",
+    "text summarization",
+    "text classification",
+    "concepts"
+  ],
+  "10.1109/TVCG.2017.2744684": [
+    "natural language",
+    "interaction",
+    "language pragmatics",
+    "visual analytics",
+    "ambiguity",
+    "feedback"
+  ],
+  "10.1109/TVCG.2017.2744686": [
+    "Visualization in Earth Science",
+    "Time Series Data",
+    "Categorical Data",
+    "Design Study"
+  ],
+  "10.1109/TVCG.2017.2744718": [
+    "Visual analytics",
+    "deep learning",
+    "machine learning",
+    "information visualization"
+  ],
+  "10.1109/TVCG.2017.2744738": [
+    "Skyline query",
+    "skyline visualization",
+    "multi-dimensional data",
+    "visual analytics",
+    "multi-criteria decision making"
+  ],
+  "10.1109/TVCG.2017.2744758": [
+    "Visual Knowledge Discovery",
+    "Time Series Data",
+    "Business and Finance Visualization",
+    "Financial Fraud Detection"
+  ],
+  "10.1109/TVCG.2017.2744805": [
+    "Visual Analytics",
+    "Interaction",
+    "Visual Cluster Analysis",
+    "Quality Metrics",
+    "Guidance",
+    "Self-Organizing Maps",
+    "Time Series"
+  ],
+  "10.1109/TVCG.2017.2744818": [
+    "Labeling",
+    "Visual-Interactive Labeling",
+    "Information Visualization",
+    "Visual Analytics",
+    "Active Learning",
+    "Machine Learning",
+    "Classification",
+    "Evaluation",
+    "Experiment",
+    "Dimensionality Reduction"
+  ],
+  "10.1109/TVCG.2017.2744843": [
+    "Network modeling",
+    "visual analytics",
+    "user interaction"
+  ],
+  "10.1109/TVCG.2017.2744878": [
+    "Neural Network",
+    "Graph Visualization",
+    "Dataflow Graph",
+    "Clustered Graph"
+  ],
+  "10.1109/TVCG.2017.2744898": [
+    "graph querying",
+    "subgraph results",
+    "query result visualization"
+  ],
+  "10.1109/TVCG.2017.2744938": [
+    "deep learning",
+    "deep generative models",
+    "blue noise sampling",
+    "credit assignment"
+  ],
+  "10.1109/TVCG.2017.2745078": [
+    "Mixed-initiative visual analytics",
+    "multi-attribute ranking",
+    "user interaction"
+  ],
+  "10.1109/TVCG.2017.2745080": [
+    "Topic Model Configuration",
+    "Reinforcement Learning",
+    "Feature Detection and Tracking",
+    "Iterative Optimization"
+  ],
+  "10.1109/TVCG.2017.2745083": [
+    "Time Series Data",
+    "Data Transformation and Representation",
+    "Visual Knowledge Representation",
+    "Visual Analytics"
+  ],
+  "10.1109/TVCG.2017.2745085": [
+    "Unsupervised Clustering",
+    "Visual Analytics",
+    "Quality Metrics",
+    "Interactive Visual Clustering"
+  ],
+  "10.1109/TVCG.2017.2745118": [
+    "Developmental disorder",
+    "Human Phenotype Ontology (HPO)",
+    "Phenotypes",
+    "Topic models",
+    "Topology simplification"
+  ],
+  "10.1109/TVCG.2017.2745139": [
+    "Privacy preserving visualization",
+    "utility aware anonymization",
+    "syntactic anonymity",
+    "differential privacy"
+  ],
+  "10.1109/TVCG.2017.2745158": [
+    "Model selection",
+    "classification trees",
+    "visual parameter search",
+    "sensitivity analysis",
+    "Pareto optimality"
+  ],
+  "10.1109/TVCG.2017.2745178": [
+    "Uncertainty visualization",
+    "ensemble visualization",
+    "clustering",
+    "meteorology"
+  ],
+  "10.1109/TVCG.2017.2745180": [
+    "Activity theory",
+    "visual analytics",
+    "activity-centered design",
+    "literature review",
+    "human-computer interaction"
+  ],
+  "10.1109/TVCG.2017.2745181": [
+    "visual analytics",
+    "sport analytics",
+    "immersive analytics"
+  ],
+  "10.1109/TVCG.2017.2745258": [
+    "Dimension reduction",
+    "clustering",
+    "algorithms",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2017.2745279": [
+    "Collaboration",
+    "sensemaking",
+    "handoff",
+    "handover",
+    "structured externalizations",
+    "interactive visual analysis"
+  ],
+  "10.1109/TVCG.2017.2745280": [
+    "Dynamic networks",
+    "biological data visualization",
+    "rule-based modeling",
+    "protein-protein interaction networks"
+  ],
+  "10.1109/TVCG.2017.2745320": [
+    "Visual Knowledge Representation",
+    "Visual Knowledge Discovery",
+    "Data Clustering",
+    "Time Series Data",
+    "Illustrative Visualization"
+  ],
+  "10.1109/VAST.2017.8585594": [
+    "real-time strategy games",
+    "StarCraft",
+    "game visualization",
+    "trajectories"
+  ],
+  "10.1109/VAST.2017.8585613": [
+    "H.5.2 [Information Interfaces and Presentation]",
+    "user Interfaces—Graphical User Interfaces",
+    "Interaction Styles"
+  ],
+  "10.1109/VAST.2017.8585665": [
+    "Visual Analytics",
+    "Anchoring Effect",
+    "Sense Making",
+    "Cognitive Bias",
+    "Interaction Log Analysis",
+    "K.6.1 [Management of Computing and Information Systems]: Project and People Management-Life Cycle",
+    "K.7.m [The Computing Profession]: Miscellaneous-Ethics"
+  ],
+  "10.1109/VAST.2017.8585721": [
+    "recurrent neural networks",
+    "visual analytics",
+    "understanding neural model",
+    "co-clustering"
+  ],
+  "10.1109/TVCG.2018.2864475": [
+    "Interpretable Machine Learning",
+    "Random Forests",
+    "Random Forest Visualization",
+    "Visual Analytics"
+  ],
+  "10.1109/TVCG.2018.2864499": [
+    "Interactive machine learning",
+    "performance analysis",
+    "model comparison",
+    "model debugging"
+  ],
+  "10.1109/TVCG.2018.2864500": [
+    "Deep learning",
+    "information visualization",
+    "visual analytics",
+    "generative adversarial networks",
+    "machine learning",
+    "interactive experimentation",
+    "explorable explanations"
+  ],
+  "10.1109/TVCG.2018.2864503": [
+    "Visual abstraction",
+    "human mobility",
+    "origin-destination",
+    "flow map",
+    "representation learning"
+  ],
+  "10.1109/TVCG.2018.2864504": [
+    "Deep Q-Network (DQN)",
+    "reinforcement learning",
+    "model interpretation",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2018.2864526": [
+    "Pairwise comparison",
+    "novices",
+    "data analysis",
+    "automatic insight generation"
+  ],
+  "10.1109/TVCG.2018.2864769": [
+    "User-Steerable Topic Modeling",
+    "Speculative Execution",
+    "Mixed-Initiative Visual Analytics",
+    "Explainable Machine Learning"
+  ],
+  "10.1109/TVCG.2018.2864811": [
+    "Visual analytics",
+    "movement data",
+    "flight trajectories"
+  ],
+  "10.1109/TVCG.2018.2864814": [
+    "Bitcoin exchange",
+    "transaction data",
+    "comparative analysis",
+    "visual analytics",
+    "FinTech"
+  ],
+  "10.1109/TVCG.2018.2864825": [
+    "Algorithm Evaluation",
+    "Ensemble Analysis",
+    "Anomaly Detection",
+    "Visual Analysis",
+    "Multidimensional Data"
+  ],
+  "10.1109/TVCG.2018.2864838": [
+    "Visual Analytics",
+    "Visualization",
+    "Machine Learning",
+    "Human-Computer Interaction",
+    "Ontology",
+    "VIS4ML"
+  ],
+  "10.1109/TVCG.2018.2864843": [
+    "Crowdsourcing",
+    "learning-from-crowds",
+    "interactive visualization",
+    "focus + context"
+  ],
+  "10.1109/TVCG.2018.2864844": [
+    "Global trade network",
+    "anomaly detection",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2018.2864885": [
+    "Progression Analysis",
+    "Visual Analysis",
+    "Event Sequence Data"
+  ],
+  "10.1109/TVCG.2018.2864886": [
+    "Sequential pattern mining",
+    "temporal query",
+    "event sequence exploration"
+  ],
+  "10.1109/TVCG.2018.2864887": [
+    "Writing",
+    "prewriting",
+    "diagraming",
+    "content and structure recommendation",
+    "pen and touch interfaces"
+  ],
+  "10.1109/TVCG.2018.2864901": [
+    "Correlation",
+    "clustering",
+    "tracking",
+    "ensemble visualization"
+  ],
+  "10.1109/TVCG.2018.2864905": [
+    "Visual Curation",
+    "Clinical Text",
+    "Text Visualization",
+    "Medical Narrative"
+  ],
+  "10.1109/TVCG.2018.2865018": [
+    "Spatio-temporal data",
+    "tensor decomposition",
+    "interactive exploration",
+    "automatic pattern discoveries"
+  ],
+  "10.1109/TVCG.2018.2865020": [
+    "Evaluation",
+    "multi-dimensional visualization",
+    "fuzzy clustering",
+    "parallel coordinate plot",
+    "scatterplot matrix",
+    "principal component analysis",
+    "radviz"
+  ],
+  "10.1109/TVCG.2018.2865021": [
+    "Graph privacy",
+    "k-anonymity",
+    "structural features",
+    "privacy preservation"
+  ],
+  "10.1109/TVCG.2018.2865022": [
+    "Natural language generation",
+    "document visualization",
+    "interactive documents",
+    "sparklines",
+    "digital libraries"
+  ],
+  "10.1109/TVCG.2018.2865023": [
+    "Visual Analytics",
+    "Email Investigation",
+    "Email Forensics"
+  ],
+  "10.1109/TVCG.2018.2865024": [
+    "Visualization provenance",
+    "interaction provenance",
+    "retrieval"
+  ],
+  "10.1109/TVCG.2018.2865025": [
+    "Theory of visualization",
+    "virtual environments",
+    "virtual reality",
+    "augmented reality",
+    "mixed reality",
+    "cost-benefit analysis",
+    "information theory",
+    "cognitive sciences",
+    "visualization applications",
+    "immersive analytics",
+    "four levels of visualization"
+  ],
+  "10.1109/TVCG.2018.2865026": [
+    "Call Stack",
+    "Performance Visualization",
+    "Representation Learning",
+    "Active Learning",
+    "Anomaly Detection"
+  ],
+  "10.1109/TVCG.2018.2865027": [
+    "Interactive Artificial Intelligence",
+    "XAI (Explainable Artificial Intelligence)",
+    "Interpretable Deep Learning",
+    "Healthcare"
+  ],
+  "10.1109/TVCG.2018.2865028": [
+    "Visual Analytics",
+    "Network security",
+    "Vulnerability analysis",
+    "CVE",
+    "CVSS",
+    "Attack Graph",
+    "Vulnerability triage and management"
+  ],
+  "10.1109/TVCG.2018.2865029": [
+    "Network security",
+    "situational awareness",
+    "privacy and security",
+    "streaming data",
+    "machine learning",
+    "visualization"
+  ],
+  "10.1109/TVCG.2018.2865039": [
+    "Collaboration",
+    "provenance",
+    "streaming data",
+    "history",
+    "web"
+  ],
+  "10.1109/TVCG.2018.2865040": [
+    "EDA",
+    "exploratory data analysis",
+    "interview study",
+    "visual analytics tools"
+  ],
+  "10.1109/TVCG.2018.2865041": [
+    "Soccer data",
+    "formation analysis",
+    "spatio-temporal visualization"
+  ],
+  "10.1109/TVCG.2018.2865042": [
+    "Eye-tracking data",
+    "areas of interest",
+    "clustering",
+    "minimum spanning tree",
+    "temporal data",
+    "spatio-temporal data"
+  ],
+  "10.1109/TVCG.2018.2865043": [
+    "Visual analytics",
+    "Predictive visual analytics",
+    "Exploratory data analysis",
+    "Multivariate statistics",
+    "Regression analysis",
+    "Variable selection",
+    "Subgroup analysis"
+  ],
+  "10.1109/TVCG.2018.2865047": [
+    "Dimension reduction",
+    "semantic interaction",
+    "exploratory data analysis",
+    "observation projection",
+    "attribute projection"
+  ],
+  "10.1109/TVCG.2018.2865049": [
+    "Spatio-Temporal Visualization",
+    "Spatial Abstraction",
+    "Spatial Index Structures",
+    "Collective Movement"
+  ],
+  "10.1109/TVCG.2018.2865051": [
+    "Visual Parameter Space Analysis",
+    "Ensemble Visualization",
+    "Semantic Interaction",
+    "Direct Manipulation",
+    "Shock Physics"
+  ],
+  "10.1109/VAST.2018.8802383": [
+    "Video utilization pattern",
+    "online distance education",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2018.8802415": [
+    "Human-centered computing",
+    "Visualization",
+    "Visualization techniques",
+    "Graph drawings"
+  ],
+  "10.1109/VAST.2018.8802449": [
+    "Social visualization",
+    "information visualization",
+    "Gestalt theory",
+    "controlled experiment",
+    "data density",
+    "data spread",
+    "perception",
+    "group identity",
+    "unity",
+    "priming",
+    "Human-centered computing",
+    "Empirical studies in HCI",
+    "Displays and imagers",
+    "Social engineering (social sciences)",
+    "Visualization theory",
+    "concepts and paradigms"
+  ],
+  "10.1109/VAST.2018.8802454": [
+    "Human-centered computing",
+    "Visualization",
+    "Visualization application domains",
+    "Visual analytics",
+    "Human-centered computing",
+    "Visualization",
+    "Visualization design and evaluation methods"
+  ],
+  "10.1109/VAST.2018.8802486": [
+    "High-dimensional data",
+    "visual exploration",
+    "pattern-driven analysis",
+    "tabular visualization",
+    "subspace",
+    "aggregation"
+  ],
+  "10.1109/VAST.2018.8802509": [
+    "Deep neural networks",
+    "robustness",
+    "adversarial examples",
+    "back propagation",
+    "multi-level visualization."
+  ],
+  "10.1109/TVCG.2019.2934208": [
+    "Evaluation",
+    "scatterplot",
+    "geometric scaling",
+    "bias",
+    "perceptual consistency"
+  ],
+  "10.1109/TVCG.2019.2934209": [
+    "High-dimensional visualization",
+    "visual analytics",
+    "cohort selection",
+    "medical informatics",
+    "selection bias"
+  ],
+  "10.1109/TVCG.2019.2934243": [
+    "Visual analytics",
+    "tennis analysis",
+    "sports analytics",
+    "spatio-temporal analysis"
+  ],
+  "10.1109/TVCG.2019.2934251": [
+    "Dimensionality reduction",
+    "contrastive learning",
+    "principal component analysis",
+    "high-dimensional data",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934261": [
+    "visual analytics",
+    "neural networks",
+    "parameter space exploration"
+  ],
+  "10.1109/TVCG.2019.2934262": [
+    "Fairness in Machine Learning",
+    "Visual Analytic"
+  ],
+  "10.1109/TVCG.2019.2934263": [
+    "Social Media",
+    "Information Diffusion",
+    "Map-like Visual Metaphor"
+  ],
+  "10.1109/TVCG.2019.2934264": [
+    "Summative evaluation",
+    "usefulness",
+    "evaluation process",
+    "taxonomy",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934266": [
+    "Spambot",
+    "Labeling",
+    "Detection",
+    "Visual Analytics",
+    "Social Media Annotation"
+  ],
+  "10.1109/TVCG.2019.2934267": [
+    "Sequence Data",
+    "Explainable Artificial Intelligence (XAI)",
+    "Recurrent Neural Networks (RNNs)",
+    "Prototype Learning"
+  ],
+  "10.1109/TVCG.2019.2934275": [
+    "Production Planning",
+    "Time Series Data",
+    "Comparative Analysis",
+    "Visual Analytics",
+    "Smart Factory",
+    "Industry 4.0"
+  ],
+  "10.1109/TVCG.2019.2934280": [
+    "Medical Data Visualization",
+    "Visual Analytics Application",
+    "Time Series Data",
+    "Multimodal Data",
+    "Brachial Plexus Injuries"
+  ],
+  "10.1109/TVCG.2019.2934289": [
+    "Visualization",
+    "time series data",
+    "data sequence"
+  ],
+  "10.1109/TVCG.2019.2934300": [
+    "Visual Analytics",
+    "matrix",
+    "black-box algorithms",
+    "seriation",
+    "ordering",
+    "sorting",
+    "steerable algorithm",
+    "interaction",
+    "2D projection"
+  ],
+  "10.1109/TVCG.2019.2934307": [
+    "High Dimensional Data",
+    "Dimensionality Reduction",
+    "Progressive Visual Analytics",
+    "Approximate Computation",
+    "GPGPU"
+  ],
+  "10.1109/TVCG.2019.2934547": [
+    "Clustering",
+    "Classification",
+    "Visual Analysis",
+    "Multiplex Tissue Imaging",
+    "Digital Pathology",
+    "Cancer Systems Biology"
+  ],
+  "10.1109/TVCG.2019.2934591": [
+    "Surrogate modeling",
+    "Neural networks",
+    "Computational biology",
+    "Visual analysis",
+    "Parameter analysis"
+  ],
+  "10.1109/TVCG.2019.2934593": [
+    "alternatives",
+    "data workers",
+    "data analysis",
+    "data science",
+    "sensemaking",
+    "qualitative study"
+  ],
+  "10.1109/TVCG.2019.2934594": [
+    "Model Evaluation",
+    "Deep Learning",
+    "High-Dimensional Space",
+    "Topological Data Analysis",
+    "Inertial Confinement Fusion"
+  ],
+  "10.1109/TVCG.2019.2934595": [
+    "Human-Computer Collaboration",
+    "Deep Learning",
+    "Neural Networks",
+    "Interaction Design",
+    "Human-Centered Design"
+  ],
+  "10.1109/TVCG.2019.2934603": [
+    "Organizational performance analysis",
+    "multi-dimensional data",
+    "hierarchical relationships",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934609": [
+    "hierarchical user profiles",
+    "user behaviour analytics",
+    "visual analytics",
+    "cybersecurity"
+  ],
+  "10.1109/TVCG.2019.2934613": [
+    "Cloud computing",
+    "anomaly detection",
+    "multidimensional data",
+    "performance visualization",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934614": [
+    "Interactive machine learning",
+    "human-computer interaction",
+    "social media analytics",
+    "emergency/disaster management",
+    "situational awareness"
+  ],
+  "10.1109/TVCG.2019.2934619": [
+    "Interactive Machine Learning",
+    "Model Debugging",
+    "Model Comparison"
+  ],
+  "10.1109/TVCG.2019.2934629": [
+    "Explainable AI",
+    "Interactive Machine Learning",
+    "Deep Learning",
+    "Visual Analytics",
+    "Interpretability",
+    "Explainability"
+  ],
+  "10.1109/TVCG.2019.2934630": [
+    "Simulative Visual Analytics",
+    "Table Tennis",
+    "Design Study"
+  ],
+  "10.1109/TVCG.2019.2934631": [
+    "Adversarial machine learning",
+    "data poisoning",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934654": [
+    "Topic Model Optimization",
+    "Word Embedding",
+    "Mixed-Initiative Refinement",
+    "Guided Visual Analytics",
+    "Semantic Mapping"
+  ],
+  "10.1109/TVCG.2019.2934655": [
+    "Radio monitoring and management",
+    "radio signal data",
+    "radio spectrum data",
+    "situation awareness",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2019.2934656": [
+    "Emotion",
+    "coherence",
+    "video analysis",
+    "visual analysis"
+  ],
+  "10.1109/TVCG.2019.2934657": [
+    "OD Visualization",
+    "Edge Bundling",
+    "Trajectory"
+  ],
+  "10.1109/TVCG.2019.2934658": [
+    "guidance",
+    "3D modeling",
+    "lighting design",
+    "provenance",
+    "global illumination"
+  ],
+  "10.1109/TVCG.2019.2934659": [
+    "Deep learning interpretability",
+    "visual analytics",
+    "scalable summarization",
+    "attribution graph"
+  ],
+  "10.1109/TVCG.2019.2934660": [
+    "Stock portfolio",
+    "visual analytics",
+    "factor investment",
+    "financial data analysis"
+  ],
+  "10.1109/TVCG.2019.2934661": [
+    "Temporal event sequence visualization",
+    "visual analytics",
+    "hierarchical aggregation",
+    "medical informatics"
+  ],
+  "10.1109/TVCG.2019.2934666": [
+    "Visual analytics",
+    "exploratory analysis",
+    "visual queries"
+  ],
+  "10.1109/TVCG.2019.2934667": [
+    "Science evolution",
+    "science mapping",
+    "interdisciplinary",
+    "knowledge domain visualization",
+    "visual analysis"
+  ],
+  "10.1109/TVCG.2019.2934668": [
+    "Natural language interface",
+    "dataflow visualization system",
+    "visual data exploration"
+  ],
+  "10.1109/TVCG.2019.2934669": [
+    "Code quality",
+    "interactive documents",
+    "natural language generation",
+    "sparklines"
+  ],
+  "10.1109/TVCG.2019.2934670": [
+    "Air pollution propagation",
+    "pattern mining",
+    "graph visualization"
+  ],
+  "10.1109/TVCG.2019.2934671": [
+    "Natural-language-based Visual Query",
+    "Spatial Uncertaity",
+    "Trajectory Exploration"
+  ],
+  "10.1109/VAST47406.2019.8986917": [
+    "Argumentation annotation",
+    "machine learning",
+    "user interaction",
+    "layered interfaces",
+    "semantic transitions"
+  ],
+  "10.1109/VAST47406.2019.8986918": [
+    "Visualization",
+    "Empirical studies in visualization",
+    "Human-centered computing",
+    "Interaction paradigms",
+    "Natural language interfaces"
+  ],
+  "10.1109/VAST.2006.261450": [
+    "TimeTree",
+    "DOI Tree",
+    "tree visualization",
+    "organizational chart",
+    "timeseries data",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2008.4677357": [
+    "D.2.11 [Software Engineering]: Software Architectures—Domain-specific architectures",
+    "H.5.2 [Information Interfaces And Presentation]: User Interface—Graphical user interfaces (GUI)",
+    "K.4.0 [Information Systems Applications]: General"
+  ],
+  "10.1109/VAST.2009.5333248": [
+    "Visual Analytics",
+    "Design",
+    "Experimentation",
+    "Human Factors"
+  ],
+  "10.1109/TVCG.2012.273": [
+    "Cognitive theory",
+    "visual knowledge discovery",
+    "interaction design",
+    "reasoning",
+    "problem solving"
+  ],
+  "10.1109/VAST.2012.6400559": [
+    "Embodiment",
+    "distributed cognition",
+    "large",
+    "highresolution display",
+    "sensemaking",
+    "space"
+  ],
+  "10.1109/TVCG.2013.190": [
+    "Data visualization",
+    "Shape analysis",
+    "Image color analysis",
+    "multiple views",
+    "Synthetic data generation",
+    "data editing",
+    "data acquisition and management",
+    "multivariate data",
+    "high-dimensional data",
+    "interaction",
+    "user interface",
+    "parallel coordinates",
+    "scatterplot",
+    "N-D navigation"
+  ],
+  "10.1109/TVCG.2014.2346677": [],
+  "10.1109/VAST.2014.7042476": [
+    "Multimedia (image/video/music) visualization",
+    "machine learning"
+  ],
+  "10.1109/VAST.2014.7042489": [
+    "Climate changes",
+    "spatiotemporal visualization",
+    "station-based observation data",
+    "radial layout",
+    "visual analytics"
+  ],
+  "10.1109/VAST.2014.7042490": [],
+  "10.1109/TVCG.2015.2467613": [
+    "Evaluation",
+    "visual analytics",
+    "interaction",
+    "intelligence analysis",
+    "insight-based evaluation"
+  ],
+  "10.1109/VAST.2015.7347626": [
+    "Predictive Modeling",
+    "Visual Analytics",
+    "Epidemic Visualization",
+    "Spatial-Temporal Systems"
+  ],
+  "10.1109/TVCG.2017.2744080": [
+    "Quantitative social science",
+    "Design study",
+    "Multiple tree visualization",
+    "Sankey diagram"
+  ],
+  "10.1109/TVCG.2017.2744683": [
+    "Convolutional Neural Networks",
+    "deep learning",
+    "image classification",
+    "large-scale classification",
+    "confusion matrix"
+  ],
+  "10.1109/VAST.2017.8585484": [
+    "Visual text analytics",
+    "sensemaking",
+    "crowdsourcing"
+  ],
+  "10.1109/VAST.2017.8585487": [
+    "Storyline visualization",
+    "layout algorithms",
+    "interaction context",
+    "geospatial analysis",
+    "VAST Challenge"
+  ],
+  "10.1109/VAST.2017.8585505": [],
+  "10.1109/VAST.2017.8585638": [
+    "Social Media",
+    "Event Analysis",
+    "Map-like Visual Metaphor",
+    "Spatial Temporal Visual Analytics"
+  ],
+  "10.1109/VAST.2017.8585646": [
+    "Supercomputing",
+    "parallel communications",
+    "performance analysis",
+    "visual analytics",
+    "communication visualization"
+  ],
+  "10.1109/VAST.2017.8585647": [
+    "Visual knowledge discovery",
+    "Causality",
+    "Hypothesis testing",
+    "Visual evidence",
+    "High-dimensional data"
+  ],
+  "10.1109/VAST.2017.8585669": [
+    "cognitive bias",
+    "visual analytics",
+    "human-in-the-loop",
+    "mixed initiative",
+    "user interaction",
+    "H.5.0 [Information Systems]: Human-Computer Interaction-General"
+  ],
+  "10.1109/VAST.2017.8585720": [
+    "Machine Learning",
+    "Interpretation",
+    "Visual Analytics"
+  ],
+  "10.1109/VAST.2017.8585733": [
+    "visual analytics",
+    "visualization",
+    "interactive visualization",
+    "question answering",
+    "multi-experiment analysis",
+    "visual comparison",
+    "visual exploration",
+    "prismatic analysis",
+    "H.5.2 [Information Interfaces and Presentation]: User Interfaces—"
+  ],
+  "10.1109/TVCG.2018.2864826": [
+    "Bipartite Graph",
+    "Visual Summarization",
+    "Minimum Description Length",
+    "Information Theory"
+  ],
+  "10.1109/TVCG.2018.2865044": [
+    "Explainable AI",
+    "Visual Debugging",
+    "Visual Analytics",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP"
+  ],
+  "10.1109/VAST.2018.8802424": [
+    "Human-centered computing",
+    "Visualization",
+    "Empirical studies in visualization",
+    "Human-centered computing",
+    "Visualization",
+    "Visual analytics"
+  ],
+  "10.1109/VAST47406.2019.8986909": [
+    "Graph visualization",
+    "Data abstraction",
+    "Data wrangling",
+    "Human-centered computing [Information visualization]",
+    "[Human-centered computing]: Visualization systems and tools",
+    "Information systems [Graph-based database models]"
+  ],
+  "10.1109/VAST47406.2019.8986922": [
+    "Human-centered computing",
+    "Visualization",
+    "Visualization application domains",
+    "Visual analytics",
+    "Information systems",
+    "Information retrieval",
+    "Users and interactive retrieval",
+    "Search interfaces"
+  ],
+  "10.1109/VAST47406.2019.8986923": [
+    "Data Clustering",
+    "Illustrative Visualization",
+    "User Interfaces",
+    "High Dimensional Data"
+  ],
+  "10.1109/VAST47406.2019.8986934": [
+    "Human-centered computing",
+    "Visualization",
+    "Visualisation application domains",
+    "Visual analytics",
+    "Visualization systems and tools",
+    "Empirical studies in visualization"
+  ],
+  "10.1109/VAST47406.2019.8986940": [
+    "Visual analytics",
+    "similarity measure selection",
+    "relevance feedback",
+    "active learning",
+    "self-organizing maps"
+  ],
+  "10.1109/VAST47406.2019.8986943": [
+    "Labeled data debugging",
+    "trusted item",
+    "tSNE"
+  ],
+  "10.1109/VAST47406.2019.8986948": [
+    "Machine learning fairness",
+    "visual analytics",
+    "intersectional bias",
+    "subgroup discovery"
+  ],
+  "10.1109/VAST.2008.4677361": [
+    "visual analytics",
+    "cognition and perception theory",
+    "embodied cognition",
+    "visualization taxonomies and models",
+    "visual analytics",
+    "cognition and perception theory",
+    "embodied cognition",
+    "visualization taxonomies and models"
+  ],
+  "10.1109/VAST.2014.7042494": [
+    "Topic graph",
+    "graph matching",
+    "graph visualization",
+    "user interactions",
+    "level-of-detail"
+  ],
+  "10.1109/TVCG.2017.2744685": [
+    "Outliers",
+    "Anomalies"
+  ],
+  "10.1109/VAST.2017.8585498": [
+    "Automated analysis",
+    "tacit knowledge",
+    "explicit knowledge",
+    "visual analytics",
+    "information visualization",
+    "theory and model"
+  ],
+  "10.1109/VAST.2017.8585658": [
+    "Social media analysis",
+    "Event detection and analysis",
+    "visual analytics"
+  ],
+  "10.1109/TVCG.2018.2864477": [
+    "Clustering tour",
+    "Guided data analysis",
+    "Exploratory data analysis",
+    "Interactive clustering analysis",
+    "Interpretability",
+    "Explainability",
+    "Visual data exploration recommendation",
+    "Dimensionality reduction",
+    "What-if analysis",
+    "Clustrophile",
+    "Unsupervised learning"
+  ],
+  "10.1109/TVCG.2018.2864812": [
+    "explainable machine learning",
+    "rule visualization",
+    "visual analytics"
+  ]
+}

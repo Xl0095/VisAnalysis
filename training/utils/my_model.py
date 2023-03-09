@@ -1,11 +1,11 @@
 from transformers import BertForSequenceClassification
 from torch.optim import AdamW
 
-def load_model_optimizer(lr):
+def load_model_optimizer(model_name, lr):
     # Load BertForSequenceClassification, the pretrained BERT model with a single 
     # linear classification layer on top. 
     model = BertForSequenceClassification.from_pretrained(
-        "allenai/scibert_scivocab_uncased", # Use the 12-layer BERT model, with an uncased vocab.
+        model_name, # Use the 12-layer BERT model, with an uncased vocab.
         num_labels = 2, # The number of output labels--2 for binary classification.
                         # You can increase this for multi-class tasks.   
         output_attentions = False, # Whether the model returns attentions weights.

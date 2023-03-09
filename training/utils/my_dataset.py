@@ -4,8 +4,10 @@ from torch.utils.data import TensorDataset, random_split, DataLoader, RandomSamp
 
 def get_train_dataframe(filename):
     df = pd.read_csv(filename)
-    df['sentence'] = df['title'] + '.' + df['title'] + '.' + df['title'] + '.' + df['abstract']
+    # df['sentence'] = df['title'] + '.' + df['title'] + '.' + df['title'] + '.' + df['abstract']
     # df['sentence'] = df['title'] + '.' + df['abstract']
+    df['sentence'] = df['text']
+
     df.fillna(value='None', inplace=True)
 
     return df
@@ -13,6 +15,7 @@ def get_train_dataframe(filename):
 
 def get_sentences_labels_list(filename):
     df = get_train_dataframe(filename)
+    # df = pd.read_csv(filename, delimiter='\t', header=None, names=['sentence_source', 'label', 'label_notes', 'sentence'])
     sentences = df.sentence.values
     labels = df.label.values
     return sentences, labels
@@ -29,6 +32,7 @@ def get_ii_am(tokenizer, sentences):
                             add_special_tokens = True,
                             max_length = 512,
                             padding = 'max_length',
+                            truncation = True, 
                             return_attention_mask = True,
                             return_tensors = 'pt'
                         )

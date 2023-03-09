@@ -1,7 +1,9 @@
 console.ipynb
 
-prepare/
+prepare/*
 
-training/__pycache__
-training/res/*.csv
-training/log/*.txt
+training/__pycache__/*
+# training/res/*.csv
+# training/log/*.txt
+training/utils/__pycache__/*
+try/*

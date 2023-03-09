@@ -47,7 +47,7 @@ def flat_accuracy_f1(preds, labels):
 """
 
 # tensor dataset
-def train(dataset, seed_val, log_file, res_file):
+def train(model_name, dataset, seed_val, log_file, res_file):
     # prepare dataloader
 
     # Number of training epochs. The BERT authors recommend between 2 and 4. 
@@ -55,7 +55,8 @@ def train(dataset, seed_val, log_file, res_file):
     # training data.
     epochs = 4
     cols = ['lr', 'k', 'epoch', 'Train. Loss', 'Valid. Loss', 'Valid. Accur.', 'Valid. macro F1', 'Valid. micro F1', 'Valid. weighted F1']
-    lrs = [5e-5, 1e-4, 4e-4, 1e-3, 3e-3, 1e-2]
+    # lrs = [5e-5, 1e-4, 4e-4, 1e-3]
+    lrs = [5e-5]
     all_stats = pd.DataFrame(columns=cols)
     for lr in lrs:
         print(f'===============learning rate: {lr}==============')
@@ -66,7 +67,7 @@ def train(dataset, seed_val, log_file, res_file):
             train_dataset = Subset(dataset, train_index)
             val_dataset = Subset(dataset, val_index)
             train_dataloader, validation_dataloader = my_dataset.get_train_val_dataloader(train_dataset, val_dataset)
-            model, optimizer = my_model.load_model_optimizer(lr)
+            model, optimizer = my_model.load_model_optimizer(model_name, lr)
 
             # select device
             if torch.cuda.is_available():
@@ -83,7 +84,7 @@ def train(dataset, seed_val, log_file, res_file):
             df_stats.insert(0, 'k', [k] * epochs)
             df_stats.insert(0, 'lr', [lr] * epochs)
             all_stats = pd.concat([all_stats, df_stats], ignore_index=True)
-    display.print_res(all_stats, res_file)
+    display.print_table(all_stats, res_file)
 
 
 
@@ -129,9 +130,9 @@ def training(model, optimizer, device, train_dataloader, validation_dataloader, 
         
         # Perform one full pass over the training set.
 
-        # print("")
-        # print('======== Epoch {:} / {:} ========'.format(epoch_i + 1, epochs))
-        # print('Training...')
+        print("")
+        print('======== Epoch {:} / {:} ========'.format(epoch_i + 1, epochs))
+        print('Training...')
 
         # Measure how long the training epoch takes.
         t0 = time.time()
@@ -154,7 +155,7 @@ def training(model, optimizer, device, train_dataloader, validation_dataloader, 
                 elapsed = format_time(time.time() - t0)
                 
                 # Report progress.
-                # print('  Batch {:>5,}  of  {:>5,}.    Elapsed: {:}.'.format(step, len(train_dataloader), elapsed))
+                print('  Batch {:>5,}  of  {:>5,}.    Elapsed: {:}.'.format(step, len(train_dataloader), elapsed))
 
             # Unpack this training batch from our dataloader. 
             #
@@ -214,9 +215,9 @@ def training(model, optimizer, device, train_dataloader, validation_dataloader, 
         # Measure how long this epoch took.
         training_time = format_time(time.time() - t0)
 
-        # print("")
-        # print("  Average training loss: {0:.2f}".format(avg_train_loss))
-        # print("  Training epcoh took: {:}".format(training_time))
+        print("")
+        print("  Average training loss: {0:.2f}".format(avg_train_loss))
+        print("  Training epcoh took: {:}".format(training_time))
             
         # ========================================
         #               Validation
@@ -224,8 +225,8 @@ def training(model, optimizer, device, train_dataloader, validation_dataloader, 
         # After the completion of each training epoch, measure our performance on
         # our validation set.
 
-        # print("")
-        # print("Running Validation...")
+        print("")
+        print("Running Validation...")
 
         t0 = time.time()
 
