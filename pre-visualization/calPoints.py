@@ -95,7 +95,7 @@ if __name__ == '__main__':
     nlp = en_core_web_sm.load()
 
     # read file
-    df = pd.read_csv('data/app_domain_ta.csv')
+    df = pd.read_csv('data/all_domain_ta.csv')
 
     with open('data/doi_paper_keywords.json') as f:
         paper_keywords = json.load(f)
@@ -123,11 +123,13 @@ if __name__ == '__main__':
 
     for i, row in df.iterrows():
         # get basic infos
-        doi, domain_str, problem_str, title, abstract, label = row
-
+        doi, title, abstract, label, domain_str, problem_str = row
         # only application papers so have  domain
         # split app domain from domain_str
-        domain = [s[1:-1] for s in re.split(', ', domain_str[1:-1])]
+        if len(domain_str) > 2:
+            domain = [s[1:-1] for s in re.split(', ', domain_str[1:-1])]
+        else:
+            domain = []
         app_number += len(domain)
 
         stem_domain = []
@@ -160,15 +162,16 @@ if __name__ == '__main__':
         # stem sentences
         # remove stop words
         stem_sent_rm_sw = ' '.join(['.' if token.is_stop else token.lemma_ for token in doc])
-        
+       
         in_tak = False
+        
         for j in range(len(domain)):
             stem_do = stem_domain[j]
             do = domain[j]
             
             # domain_and_all.append((do, i))
             domain_and_all.append((stem_do, i))
-            # without stem domain; remove stop words
+            # without stem domain; remove stop wordsd
             sent_list_wosd = stem_sent_rm_sw.split(stem_do)
             if len(sent_list_wosd) > 1: 
                 # if have domain, app numbers ++
