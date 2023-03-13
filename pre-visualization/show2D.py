@@ -23,11 +23,11 @@ if __name__ == '__main__':
     labels = df.label.values
 
     for label in labels:
-        col_all.append(colors[int(label)])
         if label != -1:
             col_domain.append(colors[int(label)])
         else:
             col_others.append(colors[int(label)])
+    col_all = col_others + col_domain
 
     # berts = ['bert']
     rds = ['PCA', 'NMF', 'LDA', 'TSNE', 'MDS', 'Isomap', 'LLE', 'SE']
@@ -56,12 +56,12 @@ if __name__ == '__main__':
                     x2lim_max = max(x2s)
                     x2lim_max = x2lim_max + abs(x2lim_max) / 10
                     
-                    save_img(df, col_all, pre + '_' + rd + 'points all', 'img/' + pre + '_' + rd + '_all.jpg')
                     df_domain = df.loc[df['label'] != -1]
                     save_img(df_domain, col_domain, pre + '_' + rd + 'points domain', 'img/' + pre + '_' + rd + '_domain.jpg')
                     df_others = df.loc[df['label'] == -1]
                     save_img(df_others, col_others, pre + '_' + rd + 'points others', 'img/' + pre + '_' + rd + '_others.jpg')
-
+                    df = pd.concat([df_others, df_domain])
+                    save_img(df, col_all, pre + '_' + rd + 'points all', 'img/' + pre + '_' + rd + '_all.jpg')
                     if 'concat-words_LLE' in filename:
                         x2_mean = np.mean(x2s)
                         x2_std = np.std(x2s)
@@ -71,11 +71,11 @@ if __name__ == '__main__':
                         # remove outlier
                         df_domain_ = df_domain.loc[(_3_lower < df_domain['x2']) & (df_domain['x2'] < _3_upper)]
                         df_others_ = df_others.loc[(_3_lower < df_others['x2']) & (df_others['x2'] < _3_upper)]
-                        df_ = pd.concat([df_domain_, df_others_])
+                        df_ = pd.concat([df_others_, df_domain_])
 
                         col_domain_ = col_domain[len(df_domain) - len(df_domain_):]
                         col_others_ = col_others[len(df_others) - len(df_others_):]
-                        col_all_ = col_domain_ + col_others_
+                        col_all_ = col_others_ + col_domain_
 
                         x1s = df_.x1.values
                         x2s = df_.x2.values
