@@ -1,4 +1,0 @@
-[2023-03-13 00:02:28]number of app annotation: 56
-[2023-03-13 00:02:28]number of paper exists domain : 31
-[2023-03-13 00:02:28]number of app annotation in tak: 41 / 56
-[2023-03-13 00:02:28]number of paper at least 1 domain in tak: 28 / 31
