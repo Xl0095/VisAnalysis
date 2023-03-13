@@ -226,6 +226,7 @@ if __name__ == '__main__':
         #     sentences = '.'.join([s.strip() for s in sentences.split(do)])
         # doc = nlp(sentences)
         # stem_sent = ' '.join(token.lemma_ for token in doc)
+        stem_domain.sort(reverse=True)
         for stem_do in stem_domain:
             stem_sent = '.'.join([sent.strip() for sent in stem_sent.split(stem_do)])
 
